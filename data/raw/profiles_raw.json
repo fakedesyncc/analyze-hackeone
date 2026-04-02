@@ -1,0 +1,5268 @@
+{
+  "m0chan": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjQ3OTI3",
+    "username": "m0chan",
+    "name": "Aidan",
+    "created_at": "2018-03-05T13:15:14.115Z",
+    "location": "Scotland",
+    "website": null,
+    "bio": "",
+    "intro": "Security Researcher / Penetration Tester based in Scotland. 🏴󠁧󠁢󠁳󠁣󠁴󠁿\r\n\r\nOpen to any contracting opportunities - m0chan@wearehackerone.com\r\n\r\n",
+    "profile_activated": true,
+    "bugcrowd_handle": "m0chan",
+    "hack_the_box_handle": "m0chan",
+    "github_handle": "m0chan",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "m0chan98",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.734910671173346,
+    "signal_percentile": 88,
+    "impact": 16.015290519877677,
+    "impact_percentile": 81,
+    "reputation": 123925,
+    "rank": 3,
+    "resolved_report_count": 5223,
+    "thanks_items_total_count": 718,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy80NTkx",
+            "public_feedback": "Nice researcher to work with, friendly, comprehensive well written report, would recommend working with m0chan.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE2ODQ=",
+              "name": "GoodRx",
+              "handle": "goodrx"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGNDAlMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTA0LTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 40,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-04-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": [
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI0NjM4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU=",
+            "database_id": "5",
+            "name": "Network Security"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI0NjM5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzE=",
+            "database_id": "1",
+            "name": "Web Applications"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI0NjQx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzc=",
+            "database_id": "7",
+            "name": "iOS"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI0NjQy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzY=",
+            "database_id": "6",
+            "name": "Android"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI0NjQ3",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzg=",
+            "database_id": "8",
+            "name": "Windows Mobile"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI1MjYw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0",
+            "database_id": "44",
+            "name": "AWS Security Configuration Review"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI1MjYy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ2",
+            "database_id": "46",
+            "name": "Azure Security Configuration Review"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI1MjYz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ1",
+            "database_id": "45",
+            "name": "GCP Security Configuration Review"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM4Njk1",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0MA==",
+            "database_id": "440",
+            "name": "AWS Services"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM4Njk2",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ3OA==",
+            "database_id": "478",
+            "name": "Cloud Environment"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQyOTUy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ5Nw==",
+            "database_id": "497",
+            "name": "EC2"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQzMjkw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1MA==",
+            "database_id": "550",
+            "name": "Route53"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQzMjkx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1Mg==",
+            "database_id": "552",
+            "name": "S3"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ1MDA1",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUwNA==",
+            "database_id": "504",
+            "name": "External Network"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ1MDA2",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0Ng==",
+            "database_id": "546",
+            "name": "Reconnaissance and Asset Discovery"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3NjM4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0NA==",
+            "database_id": "544",
+            "name": "REST"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3NjM5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ4NQ==",
+            "database_id": "485",
+            "name": "CloudFront"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3NjQw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0Mw==",
+            "database_id": "543",
+            "name": "RDS"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3NzA4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ5NQ==",
+            "database_id": "495",
+            "name": "DynamoDB"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3NzA5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyMg==",
+            "database_id": "522",
+            "name": "Lambda"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUwNTA4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUxNQ==",
+            "database_id": "515",
+            "name": "Initial Access"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUwNTA5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyMw==",
+            "database_id": "523",
+            "name": "Lateral Movement / Pivoting"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUwNTEw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyNg==",
+            "database_id": "526",
+            "name": "Linux"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUwNTEx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU3MQ==",
+            "database_id": "571",
+            "name": "Windows / Active Directory"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUxMDIy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUxMg==",
+            "database_id": "512",
+            "name": "IAM"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUxMzc5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU2OQ==",
+            "database_id": "569",
+            "name": "WebSockets"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUxNDA5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0Ng==",
+            "database_id": "446",
+            "name": "Authentication"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzU0MjE1",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ3MA==",
+            "database_id": "470",
+            "name": "Blockchain Networks"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzYwNTMw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyNA==",
+            "database_id": "524",
+            "name": "Leaked / Breached Credentials"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzYyMzAx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ1NA==",
+            "database_id": "454",
+            "name": "Azure Files"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzYyMzAy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ2MQ==",
+            "database_id": "461",
+            "name": "Azure Services"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzY0MjIz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQzNw==",
+            "database_id": "437",
+            "name": "AI Security"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzY0MjI0",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0Mw==",
+            "database_id": "443",
+            "name": "Artificial Intelligence / Machine Learning"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzY2NjY1",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUwNg==",
+            "database_id": "506",
+            "name": "GCP Services"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzY2NjY2",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyMQ==",
+            "database_id": "521",
+            "name": "Kubernetes Engine"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzgzMjc5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1Ng==",
+            "database_id": "556",
+            "name": "SQL"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzkzODA0",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1NQ==",
+            "database_id": "555",
+            "name": "SOAP"
+          }
+        }
+      ]
+    },
+    "pentester_profile": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1BlbnRlc3RlclByb2ZpbGUvMTA2",
+      "name": "Aidan",
+      "completed_pentests_number": 40,
+      "certifications": {
+        "edges": [
+          {
+            "node": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb25zUGVudGVzdGVyUHJvZmlsZS8zMTk4",
+              "certification": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb24vMjI=",
+                "name": "CREST Registered Tester",
+                "short_name": "CREST CRT"
+              },
+              "certification_identifier": "",
+              "starts_at": "2021-08-16",
+              "ends_at": null
+            }
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb25zUGVudGVzdGVyUHJvZmlsZS8zMTk3",
+              "certification": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb24vNQ==",
+                "name": "CompTIA Security+",
+                "short_name": "S+"
+              },
+              "certification_identifier": "",
+              "starts_at": "2019-01-23",
+              "ends_at": null
+            }
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb25zUGVudGVzdGVyUHJvZmlsZS8zMTk2",
+              "certification": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb24vMQ==",
+                "name": "Offensive Security Certified Professional",
+                "short_name": "OSCP"
+              },
+              "certification_identifier": "",
+              "starts_at": "2019-11-01",
+              "ends_at": null
+            }
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb25zUGVudGVzdGVyUHJvZmlsZS8zMTk1",
+              "certification": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb24vMTI=",
+                "name": "CompTIA PenTest+",
+                "short_name": "PenTest+"
+              },
+              "certification_identifier": "",
+              "starts_at": "2020-08-19",
+              "ends_at": null
+            }
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb25zUGVudGVzdGVyUHJvZmlsZS8zMTk0",
+              "certification": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb24vMjY=",
+                "name": "AWS Certified Cloud Practitioner",
+                "short_name": "AWS Certified Cloud Practitioner"
+              },
+              "certification_identifier": "",
+              "starts_at": "2020-10-08",
+              "ends_at": null
+            }
+          }
+        ]
+      }
+    },
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-02-04T08:01:07.221Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU1OA==",
+            "name": "A4: XML External Entities (XXE)",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/81g6elvx15ggixwhcud7sar861ut?response-content-disposition=inline%3B%20filename%3D%22owasp-A4.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A4.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQYEXO4JRF%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110848Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIC48aKaqbNBRYCV6mNsQg2B7fgxajGOluV76TFh6lRynAiEA54Kim4H07O4ISwn8X%2FUxBa9ADC6w1XMr9HIXaIIkvWAqsgUIaxADGgwwMTM2MTkyNzQ4NDkiDDyZPGZQMjR7fyuOQSqPBRuCQzAZJbeznQDZduq5sz93RhIFJ9g8%2BgIr1LzVRtP%2BhDMctiISyhQ5jTq1wQ5AL0Z4t4JEunTTHzZPfRX%2BkAnegDxR%2FCUjfoViTM3%2FB2DIej94KyW1ZHPdGNvmRsUIc94RC0%2FIUXWbBajHn6MvyQJKUIqcl%2FFeAZd64dDCIgNLKOeQRIGbFlA630LKix245CSkAio5dmbeIIKtzSF%2BiT%2FZU9TGdAI77VykqvyuS199I2W%2FHfoD0O9tdbw3j8Yy9eEA2qzPqhC4qJ0oPcErcJUe28sVfb7XmcaaOZrpMP2KEEAHf7rAa2lv5XQFRIaVIeJX5KmL7YOEJyP%2Fm68cD9bEqelfqtyKpFZZ36VwgEBVhAyeOmZbgXMGqR8Qugt5YjOhrF%2BsYCrqgVoXJzHAOqTlhk%2B85gL0cQ8meWVPOHJSVz6mdMQaK5sOa7M7%2F1vA64YTXB236AC7ykrxLRvuVN74Ovsyxlw4%2BlUEtM4NOnvjCpLswChmeINQC3z2CZ5JcWTV%2BTkF3x03LDKgjrJQ8qQJGp%2Fe6TesuCc%2BxZPLX2XuCqyuENt%2BVcvOucS98apoNVo6L5MIZ3lTD7fv2vPk5uvmunnyKuge8IRdVfi6%2FTabobU2LbF53oZ5O2pFpz2joC99Cy4o811AeUgs554kRJx71Ja4qqTo4MUw9s9JRJQ3JPJUnAU1fxjWIZ9ozyq999HNOcYDg8OLYSPR2y1nPxl8KIr6wRGKYegOp%2BuVqk1trqBCpcaC9a6HglykkvX8jn8Ycp3HtFJF26rCfhU%2B2lSHaKj5weT6AlngN6R%2FpY1bEsk0aEFqWtShrUv%2F8t1PGm%2Bl4gcWeE6ejKkNmsNH%2FvF%2BHSBUIMQhJ7W2%2FfOE0t0wnf64zgY6sQF59pTjkxJPjuYn5O7TAbzRBoju6XiTbIAZFQ%2BB38BfoBfOk7zexZK4J8NFv9Q1bDCe%2BPQwQ%2Fqh4V3u%2BseC6W9LYe%2FidxY8EDbhTIuZn6MXU6jC%2FZWU28CJ8eK607M%2FkJPXsEvd2T3BkugdeuIOblGhB6SuUO3ttg8t0up%2BDNrC1NBIXKB936VHVckcOSpoUr0SooMsa1Kt10oFmYg2WXyGlVnzKABMJ8mQTLAxh%2FkjvDQ%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=18cff4738504ff1e36eb96b8b51410ad77c9d9f6f925c9b2990ee27e0e851f0f"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-08-07T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc3NQ==",
+            "name": "H1-702 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/79dn0vfaqn9kjedxuvnorb5bodyv"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTYzMDY5NDU0",
+            "rank": 1,
+            "report_count": 418,
+            "total_report_count": 549,
+            "reputation": 8339,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTc2NjA3NTI4",
+            "rank": 2,
+            "report_count": 296,
+            "total_report_count": 402,
+            "reputation": 6750,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzIzMTg5OTc2",
+            "rank": 3,
+            "report_count": 180,
+            "total_report_count": 549,
+            "reputation": 4176,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTEyMjA4MjA0",
+            "rank": 14,
+            "report_count": 212,
+            "total_report_count": 458,
+            "reputation": 3326,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTA4MzE4NjE5",
+            "rank": 2,
+            "report_count": 168,
+            "total_report_count": 301,
+            "reputation": 3056,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQzNjE1",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Well written reports that are detailed and actionable. A true asset to the program! ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NjM1Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-02-03T21:42:35.208Z",
+              "created_at": "2026-02-03T21:42:35.225Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQzMDg1",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Excellent, well written reports. Diligent, detailed support information. A true asset to the program! ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NjI2MA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-01-30T22:23:17.203Z",
+              "created_at": "2026-01-30T22:23:17.214Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQwOTY3",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Excellent reports, clear, actionable and well written. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NTk0Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-01-22T17:15:28.154Z",
+              "created_at": "2026-01-22T17:15:28.168Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTk1OTEx",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Thanks for the responsible disclosure! Although this was out of scope, we appreciate your attention to detail and quick reporting. Keep up the great work!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zODM4Mg==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-07-24T07:59:48.191Z",
+              "created_at": "2025-07-24T07:59:48.206Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTM1ODYx",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Great explanation and quick response times! ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yOTUwNw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-01-22T18:21:22.164Z",
+              "created_at": "2025-01-22T18:21:22.179Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE4Njgx",
+      "signal": 6.782696177062374,
+      "signal_percentile": 49,
+      "impact": 15.167095115681233,
+      "impact_percentile": 63,
+      "reputation": 9021,
+      "rank": 1
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQxMDgz",
+      "signal": 6.635235732009925,
+      "signal_percentile": 63,
+      "impact": 14.773071104387292,
+      "impact_percentile": 60,
+      "reputation": 31366,
+      "rank": 1
+    }
+  },
+  "godiego": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMwMTIy",
+    "username": "godiego",
+    "name": "diego",
+    "created_at": "2016-12-11T23:29:05.786Z",
+    "location": "",
+    "website": "https://godiego.co",
+    "bio": "It's not go-die-go but go-diego :)",
+    "intro": "Open to private invitations and engagements via godiego@wearehackerone.com.",
+    "profile_activated": true,
+    "bugcrowd_handle": "godiego",
+    "hack_the_box_handle": "",
+    "github_handle": "diego95root",
+    "gitlab_handle": "",
+    "linkedin_handle": "diego-bernal-adelantado",
+    "twitter_handle": "_godiego__",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.861386138613861,
+    "signal_percentile": 88,
+    "impact": 19.500332005312085,
+    "impact_percentile": 88,
+    "reputation": 85398,
+    "rank": 5,
+    "resolved_report_count": 2424,
+    "thanks_items_total_count": 772,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84MjE4",
+            "public_feedback": "Great researcher to work with.  Extremely professional.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ1MjM=",
+              "name": "Caterpillar",
+              "handle": "caterpillar"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzklMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 39,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-17T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzk4Nw==",
+            "name": "H1-65 | Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t17flb9ziboy75t0u3ixekmbs3kr"
+          }
+        },
+        {
+          "awarded_at": "2026-03-16T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkzMA==",
+            "name": "H1-6102 2025 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t73my2xp058o64dsdrcenfhcm480"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTQ2MDQ5MDkx",
+            "rank": 28,
+            "report_count": 84,
+            "total_report_count": 129,
+            "reputation": 1933,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTg1NDYwOTIx",
+            "rank": 7,
+            "report_count": 65,
+            "total_report_count": 83,
+            "reputation": 1689,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjA3OTA0MzAx",
+            "rank": 4,
+            "report_count": 52,
+            "total_report_count": 60,
+            "reputation": 1508,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTg2MzA3NzQ3",
+            "rank": 3,
+            "report_count": 38,
+            "total_report_count": 46,
+            "reputation": 1504,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTIwOTI2ODIz",
+            "rank": 46,
+            "report_count": 61,
+            "total_report_count": 87,
+            "reputation": 1379,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjM0OTI2",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Really helped us discover, understand and fix a critical issue in our services. Thanks!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NDg4NA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-12-16T14:24:13.222Z",
+              "created_at": "2025-12-16T14:24:13.260Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTE3NjMx",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Professional behaviour and well communicated. \n",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNjkxOA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-11-25T02:13:02.134Z",
+              "created_at": "2024-11-25T02:13:02.146Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTAyODQ0",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Diego was extremely professional and great partner with work with!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNDY0NQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-09-19T16:35:00.290Z",
+              "created_at": "2024-09-19T16:35:00.306Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vOTg5OTg=",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Excellent to work with and fast communication. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNDAwOA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-09-11T18:18:56.839Z",
+              "created_at": "2024-09-11T18:18:56.854Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vODQ2ODU=",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Very professional hacker who writes great reports.  We always appreciate working with them!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yMTg0Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-07-02T17:43:19.484Z",
+              "created_at": "2024-07-02T17:43:19.504Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE4MjQz",
+      "signal": 6.776951672862453,
+      "signal_percentile": 49,
+      "impact": 18.859315589353614,
+      "impact_percentile": 74,
+      "reputation": 6932,
+      "rank": 2
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQwMjk4",
+      "signal": 6.762962962962963,
+      "signal_percentile": 64,
+      "impact": 19.975579975579976,
+      "impact_percentile": 79,
+      "reputation": 23185,
+      "rank": 2
+    }
+  },
+  "d0xing": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTY1NTA=",
+    "username": "d0xing",
+    "name": "d0xing",
+    "created_at": "2016-07-29T15:20:07.578Z",
+    "location": "",
+    "website": null,
+    "bio": "",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "d0xing",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "d00xing",
+    "cleared": false,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.916443323348573,
+    "signal_percentile": 89,
+    "impact": 18.18174448767834,
+    "impact_percentile": 85,
+    "reputation": 163762,
+    "rank": 2,
+    "resolved_report_count": 5840,
+    "thanks_items_total_count": 692,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGNDAlMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTA0LTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 40,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-04-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-09-25T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzgxMw==",
+            "name": "H1-0131 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rqsclfa9fojzovjcl4ia48asi9in"
+          }
+        },
+        {
+          "awarded_at": "2024-08-07T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc3NQ==",
+            "name": "H1-702 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/79dn0vfaqn9kjedxuvnorb5bodyv"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTE1OTk3MDcz",
+            "rank": 3,
+            "report_count": 779,
+            "total_report_count": 954,
+            "reputation": 15755,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjkzNjI0NTI=",
+            "rank": 7,
+            "report_count": 183,
+            "total_report_count": 231,
+            "reputation": 4666,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzAxNDM2MjQ=",
+            "rank": 12,
+            "report_count": 194,
+            "total_report_count": 226,
+            "reputation": 4412,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTE1MTUzMDY5",
+            "rank": 2,
+            "report_count": 161,
+            "total_report_count": 192,
+            "reputation": 3675,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vOTI5ODk5Njc=",
+            "rank": 7,
+            "report_count": 172,
+            "total_report_count": 197,
+            "reputation": 3612,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": null,
+        "hasNextPage": false
+      },
+      "edges": []
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE4MTEz",
+      "signal": 6.959866220735786,
+      "signal_percentile": 49,
+      "impact": 15.148148148148149,
+      "impact_percentile": 63,
+      "reputation": 6402,
+      "rank": 3
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQwMDgx",
+      "signal": 6.972665148063781,
+      "signal_percentile": 66,
+      "impact": 15.905373831775702,
+      "impact_percentile": 67,
+      "reputation": 20526,
+      "rank": 3
+    }
+  },
+  "holybugx": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMzMTUzNQ==",
+    "username": "holybugx",
+    "name": "HolyBugx",
+    "created_at": "2020-09-22T13:55:32.049Z",
+    "location": "",
+    "website": null,
+    "bio": "",
+    "intro": "For private invites, collaborations, and other opportunities - holybugx@wearehackerone.com",
+    "profile_activated": true,
+    "bugcrowd_handle": "holybugx",
+    "hack_the_box_handle": "",
+    "github_handle": "HolyBugx",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "holybugx",
+    "cleared": false,
+    "verified": false,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.924485125858124,
+    "signal_percentile": 89,
+    "impact": 16.77728142948309,
+    "impact_percentile": 82,
+    "reputation": 39271,
+    "rank": 14,
+    "resolved_report_count": 1433,
+    "thanks_items_total_count": 414,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy83OTA2",
+            "public_feedback": "You rock!!  Thank you for your research! ",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE5MjQ=",
+              "name": "Global Payments",
+              "handle": "global-payments"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy83MjYx",
+            "public_feedback": "Very clear report, highly responsive and awesome researcher to work with. ",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQzODI1",
+              "name": "Exodus",
+              "handle": "exodus"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGNDAlMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTA0LTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 40,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-04-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-05-17T02:11:12.628Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzM=",
+            "name": "Insecticide",
+            "image_path": "/assets/users/badges/resolved_gold-baf3765f7e2ead9b90572983821066d4bd7227674cf55455e5968d6198cbeb6d.png"
+          }
+        },
+        {
+          "awarded_at": "2023-10-17T14:00:31.379Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU1NQ==",
+            "name": "A1: Injection",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/7ibx58droagpkcm3zyeo0j70ortw?response-content-disposition=inline%3B%20filename%3D%22owasp-A1.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A1.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQWFF5IXJC%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110855Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCoRt4GlVEykQXEDaiFFdVt132E7%2Bft7oT6B6MxT5BJpwIhAOrFpoE8qoxSLZMEBYDN%2BeidiHlci%2FPaS6D3YbCiUtQcKrIFCGsQAxoMMDEzNjE5Mjc0ODQ5IgwF13kjqHc%2FH2QZz5EqjwUn86ki7PUcYhSIEjd%2FcDIjwRQI5w9Ryil%2BBOba7jQWJMRzbM84QP%2BRkt5ISZGE%2F%2BfHuv62EFglFuW8qBz3ps0OtaltTCLFyOY6fzJmMCaPS59emYOnqjFADc9%2B7vc%2Bxg0IhR6kbbmd%2FauqIg9wvV%2B2j9Cxx1Rklq5YfToHZax%2FCvoLmSmuAxCVdxlxrBwgVBPK%2FhuQns%2FB8B0b%2F%2F%2FYVtpcl2spF9KPIYmpaGOEkLdSFUgZ7hF7BQt5OeIs3YwmupCRtqo49ZzRVC%2B9MG98DCQCAWTrSRbVdbBI07aTPw9F3OXZdo8LFNKjeVDuk0zmXcWnDVvzkwd98oinbMurYFMNyq0eR7QK%2FXwds9xOI31AKtLBvCDgUQM51JaJtjuPguuHMoplYz1vfVQBtd7lC%2B6zx4plmZZi9PhiyQar3dx5To0Eltwcsq0LqtXh0N1XWzWJTHzFJvv3bNPEDigx%2BEHdN7kJApxi5wWBH3pxSuSAag8CQ26abW3CA5CmghY3UrGw%2B75RhrJtIiingA4ENbh5d%2FYOKM4B7Z%2FbuwQb7xGmZYlRpfa%2FrjLgiTHRq7pRLAfetO81dAi5pOP3to82QObYrespn28nHlFC48zU%2BpJSB9f4TTVqRxyNdD%2BgPupeKXLvoBH0mbuFRGLG8T%2FeVE0OMhzPV0BH4MdojGZhXT0mcosX%2BgDJBCHQMpw7na79EOtuFg%2FL8oqaT68x0Y9hPFxS%2BN6uobo%2BBmGJnAq0La5Fs2%2BnDaH7x4kdIs5oh77mIXCAYdun0jIeNQgS5GWvVx5Xaw2Udc80ruiXUO%2FFvtJCQmsftghMoX3g%2B75xwgiK2S6Ll528cBDNLFnGFnof2nTk4jlmj8RQMRMDYcMR38VmMLmDuc4GOrABKkz%2BJ5T2eNlSZ6XWomMFQormeQ7Yd0wPiM9bSBviY9cj9cWRmim%2Fz3p8KZIQVFf3j0sPtzmvl0c7vFhiq6m99zZ18N2N0NxZUZD3kCDPzDQf3IFqvCTuo57k52S0JvOsyL8AoaAZDzDEPz%2BTLgBE%2FO44nIYGeE4my2Vruze48%2FIOjvxR1tsRoI7L83khUkSQMippHWTNrevZ5vQDZ6Hpe2%2Fde%2BBmczgiqXf7aSMtAFk%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0c1339a0f465b42865e556d8e0a56335dd8e7015a42e87e1a20b2f297b82ad7d"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTc1MTAwNDQ0",
+            "rank": 17,
+            "report_count": 144,
+            "total_report_count": 171,
+            "reputation": 2898,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjE5MjQ0NjY1",
+            "rank": 10,
+            "report_count": 134,
+            "total_report_count": 153,
+            "reputation": 2702,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjM5MDQ1Mjcy",
+            "rank": 5,
+            "report_count": 86,
+            "total_report_count": 90,
+            "reputation": 1830,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTUzNjY2Nzc2",
+            "rank": 30,
+            "report_count": 71,
+            "total_report_count": 110,
+            "reputation": 1828,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjcwODMyNTc2",
+            "rank": 4,
+            "report_count": 6,
+            "total_report_count": 11,
+            "reputation": 727,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NA",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTg0OTM3",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "The researcher submitted a well written report with POC.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zNjc3MQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-06-17T17:31:00.193Z",
+              "created_at": "2025-06-17T17:31:00.210Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTY0ODAy",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "The researcher provided a well written and detailed report about the finding. And the researcher is prompt to response to any questions and communicate on timely basis to help resolve the issue. \n",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zMzc3MQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-04-10T13:09:49.732Z",
+              "created_at": "2025-04-10T13:09:49.748Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNDI4MjI=",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "You rock!!  Thank you for your research! ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xNDgwNw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2023-07-11T12:07:53.668Z",
+              "created_at": "2023-07-11T12:07:53.682Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE5MjQ=",
+                "name": "Global Payments"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMzE3NzM=",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Very clear report, highly responsive and awesome researcher to work with. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xMjMyOQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2022-11-21T18:06:02.824Z",
+              "created_at": "2022-11-21T18:06:02.836Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQzODI1",
+                "name": "Exodus"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIwNzQ1",
+      "signal": 6.933333333333334,
+      "signal_percentile": 49,
+      "impact": 14.710982658959537,
+      "impact_percentile": 55,
+      "reputation": 3442,
+      "rank": 4
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ1MTYz",
+      "signal": 6.925233644859813,
+      "signal_percentile": 65,
+      "impact": 15.591133004926109,
+      "impact_percentile": 66,
+      "reputation": 14021,
+      "rank": 5
+    }
+  },
+  "green-jam": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE3ODkzOA==",
+    "username": "green-jam",
+    "name": "Jim Green",
+    "created_at": "2022-01-18T15:29:23.185Z",
+    "location": "",
+    "website": null,
+    "bio": "",
+    "intro": "Making software during the day, breaking it at night.\r\n\r\nHackerOne Co-Ambassador for the UK ",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "green-jam",
+    "twitter_handle": "GreenJamSec",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 7.0,
+    "signal_percentile": 90,
+    "impact": 16.106048053024026,
+    "impact_percentile": 81,
+    "reputation": 28964,
+    "rank": 38,
+    "resolved_report_count": 930,
+    "thanks_items_total_count": 46,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy83NTEz",
+            "public_feedback": "Great researcher to work with.  Extremely professional.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ1MjM=",
+              "name": "Caterpillar",
+              "handle": "caterpillar"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy82MjA2",
+            "public_feedback": "Thnx!",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTM2Mzg=",
+              "name": "Tenable",
+              "handle": "tenable"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzglMkYyMDIzLTAzLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTA0LTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 38,
+      "start_date": "2023-03-01T00:00:00.000Z",
+      "end_date": "2026-04-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-09-25T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzgxMw==",
+            "name": "H1-0131 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rqsclfa9fojzovjcl4ia48asi9in"
+          }
+        },
+        {
+          "awarded_at": "2024-08-02T16:00:52.042Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzM=",
+            "name": "Insecticide",
+            "image_path": "/assets/users/badges/resolved_gold-baf3765f7e2ead9b90572983821066d4bd7227674cf55455e5968d6198cbeb6d.png"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTU5NzA0MDc2",
+            "rank": 1,
+            "report_count": 904,
+            "total_report_count": 949,
+            "reputation": 26652,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjAxMjA4MTE1",
+            "rank": null,
+            "report_count": 15,
+            "total_report_count": 15,
+            "reputation": 420,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDUzMzQ4Nzgw",
+            "rank": 2,
+            "report_count": 0,
+            "total_report_count": 1,
+            "reputation": 317,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTkzMjYzMDY3",
+            "rank": 23,
+            "report_count": 6,
+            "total_report_count": 6,
+            "reputation": 185,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzMyOTcy",
+              "name": "Logitech",
+              "handle": "logitech",
+              "state": "public_mode",
+              "url": "https://hackerone.com/logitech"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTkyOTgwNjQ4",
+            "rank": 16,
+            "report_count": 3,
+            "total_report_count": 3,
+            "reputation": 171,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "Mg",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMzUxNTQ=",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great researcher to work with.  Extremely professional.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xMzE1OA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2023-02-22T13:42:22.831Z",
+              "created_at": "2023-02-22T13:42:22.847Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ1MjM=",
+                "name": "Caterpillar"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjMwOTM=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Thnx!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS85OTQ5",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2022-02-09T17:09:07.746Z",
+              "created_at": "2022-02-09T17:09:07.762Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTM2Mzg=",
+                "name": "Tenable"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIyMDY0",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 15.206896551724137,
+      "impact_percentile": 63,
+      "reputation": 3428,
+      "rank": 5
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ3OTY3",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 16.610169491525422,
+      "impact_percentile": 69,
+      "reputation": 8987,
+      "rank": 17
+    }
+  },
+  "badcracker": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzE0MDE1",
+    "username": "badcracker",
+    "name": "mhmd berro",
+    "created_at": "2018-07-20T17:14:52.049Z",
+    "location": "",
+    "website": null,
+    "bio": "Cheer up. Life is good! ",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.73962860529435,
+    "signal_percentile": 88,
+    "impact": 15.347222222222221,
+    "impact_percentile": 80,
+    "reputation": 34025,
+    "rank": 19,
+    "resolved_report_count": 2171,
+    "thanks_items_total_count": 161,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84ODYz",
+            "public_feedback": "Badcracker has submitted more reports to us than anyone else. All of the reports are well-written and thoughtful. Thank you!",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDIzMjc=",
+              "name": "Palo Alto Software",
+              "handle": "palo_alto_software"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84Mzg2",
+            "public_feedback": "Thank you for the detailed report.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA5NzI=",
+              "name": "Fiserv",
+              "handle": "fiserv"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy80MjUx",
+            "public_feedback": "Good, friendly communication",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDIzMjc=",
+              "name": "Palo Alto Software",
+              "handle": "palo_alto_software"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGNDAlMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTA0LTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 40,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-04-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-07-19T06:00:48.474Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU2Mw==",
+            "name": "A9: Using Components with Known Vulnerabilities",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/c6eco0ojysqeinzscmwww9frxy68?response-content-disposition=inline%3B%20filename%3D%22owasp-A9.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A9.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQZUGDP2XT%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110859Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICs1bnjBInfA3N6vnipcnjw8ElralZiqhSVUoFCajc6kAiEA0HfGwHaZhD411SjK0Pn0CiJWR%2BPd4MlS6zpJtudtkrAqsgUIaxADGgwwMTM2MTkyNzQ4NDkiDMBMsJD6Wb%2F8H859oCqPBZW72ePtkTw7%2BA8iTy9hGe1c2EkgK8ue1iHfmBoCoct5x6IP5v3zgF0i8WELsp2DnRiHpMZ4UdZUP0JqxXjArSWYIx6jGemUZPWXF4o7KRTH2ajhx7axXXz8eIuI6N4DCY2yR%2Blw0wFC3eSihUB7atXjkHUiAH2eckHNfMkxJ9%2BWZ1SMWqu4zuI1ckuTE8xlHaPO84axuV51pUtJrtlgT5bG9Llh6o6qY%2FYFF4l%2F7gMpAEcz%2FDiNJI80jox0XWfEV0TyCX3Id0yxNWwXEmMEH5cBxqdKbM3yTSLeCGJyUCFeB79FGaoAAdBAO3YOOWz1GlRqGAnuFhtUpvfwwVcac770KRA0IhfQQO%2FV%2F79T%2Blu6X3x8K77xbrmy%2FY76F0qKaAXvvHprFdE8teYI6Y9wDa6ZTylK0a0uTkd%2FHmjyv5Sj3fHG1M9RFNtkA%2FAD21PJuv9cNSVLTE4Szb3x%2F4dK4xc2JZUTbFYj%2BAkn7Rq5p0%2BiGZUEjoElObTZMjo%2FgvxV3ZmdbuctNVA2uBXQNUL0KyyS3Z9cQQ8XMw%2FPYLXTtPIvho%2BiHZkV%2Bg7Lkd8ZxWtf80dH4v0yl68DtYrFRhhna0AFfLRxvZHcfWAyiznb6BIEkQXaAXX%2BovOE443lRCXmgXQB5tRHAriIykpK5UAkm1C4e04apDxxjlW79r1740YgKg1Xp9eaaAY7vru4EjbKkfdJJwwmf0zJkqm4JPU9kv3ENtAWqLjxPvShb0j8Xo746fUPhqRkpzn%2BPJ%2FsJOX3EXONpGpfMzpY87AuKBKC3hhWUx8ZiVo8uP%2FNKzGw0zrB4hRzBG6eEqChgUwoZtnSKSJxcTc%2BfSu3MCaWcTqWePaSgVeHOdoNXKMLHMl6kpgwhoa5zgY6sQGH1BHH8EQg8p2fePtAbYW5y%2FB3YEoOOT3RH0UUWlKWnpe0UGKfQSeM50MOBu88jTb%2FZCXJet09N8e%2B3S1Jm0h1hEtQtfxxY7lpzFW77hndIVM9Cy%2FuCqPGHWhGQBB%2BkolNxc5IA3DNXe8anrM6gCLZGF%2F4HIsjWxxiOAFVM%2F%2FyVaVkuqG3MwPmFLopl5PMiHvDLTkbzCnHeGv6Kt0hNXwVBC2TadxFFI3cjwnmU6ggNFE%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3a32640de647dd5bc0515a599ee1abfa777b5133b4aefeb4b279a1930e91b052"
+          }
+        },
+        {
+          "awarded_at": "2022-11-03T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzY2NA==",
+            "name": "Hacker Appreciation - High/Critical Bug",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/2mzq12m40v4nnikkpq52secbj7cp"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjQ4NTU4NzU4",
+            "rank": 1,
+            "report_count": 145,
+            "total_report_count": 245,
+            "reputation": 6209,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vODU4MTQ2MTY=",
+            "rank": 1,
+            "report_count": 467,
+            "total_report_count": 524,
+            "reputation": 3754,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vODc0OTg4MDY=",
+            "rank": 11,
+            "report_count": 120,
+            "total_report_count": 233,
+            "reputation": 2545,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDU5NDg1Njc=",
+            "rank": 1,
+            "report_count": 119,
+            "total_report_count": 193,
+            "reputation": 2378,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjQ0NTk0NTgy",
+            "rank": 1,
+            "report_count": 68,
+            "total_report_count": 83,
+            "reputation": 1643,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTA2Mjg2",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Badcracker has submitted more reports to us than anyone else. All of the reports are well-written and thoughtful. Thank you!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNTE1NQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-10-02T19:19:32.212Z",
+              "created_at": "2024-10-02T19:19:32.226Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDIzMjc=",
+                "name": "Palo Alto Software"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNTU3OTQ=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Thank you for the detailed report.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xNzQwOA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-01-12T15:07:29.281Z",
+              "created_at": "2024-01-12T15:07:29.296Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA5NzI=",
+                "name": "Fiserv"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNDczNTM=",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Great working with them.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xNTY5NA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2023-09-27T15:02:47.695Z",
+              "created_at": "2023-09-27T15:02:47.711Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjc3Nzg=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "badcracker has been a strong contributor to the program and always delivers excellent reports.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xMTM2MQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2022-08-08T14:31:04.599Z",
+              "created_at": "2022-08-08T14:31:04.613Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vODgzMg==",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Report was well written, easy to follow and allowed us to reproduce, give a bounty and resolve quickly.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS81MjYw",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2020-12-03T19:32:31.971Z",
+              "created_at": "2020-12-03T19:32:31.979Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE4ODM5",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 15.69767441860465,
+      "impact_percentile": 64,
+      "reputation": 3130,
+      "rank": 6
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQxMzg3",
+      "signal": 6.964912280701754,
+      "signal_percentile": 66,
+      "impact": 15.9846547314578,
+      "impact_percentile": 67,
+      "reputation": 9661,
+      "rank": 13
+    }
+  },
+  "arielrachamim": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQyMTg2MA==",
+    "username": "arielrachamim",
+    "name": "Ariel Rachamim",
+    "created_at": "2020-12-09T07:27:12.164Z",
+    "location": "",
+    "website": null,
+    "bio": "Application Security Researcher",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "ArielRachamim",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": null,
+    "twitter_handle": "",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.778047301394785,
+    "signal_percentile": 88,
+    "impact": 6.308210784313726,
+    "impact_percentile": 72,
+    "reputation": 33353,
+    "rank": 22,
+    "resolved_report_count": 2698,
+    "thanks_items_total_count": 411,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy85NzAw",
+            "public_feedback": "Great work,  Thank you",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTc0MzY=",
+              "name": "Daimler Truck",
+              "handle": "daimler_truck"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy85Njk5",
+            "public_feedback": "Great work,  Thank you",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTc0MzY=",
+              "name": "Daimler Truck",
+              "handle": "daimler_truck"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84OTg2",
+            "public_feedback": "Arielrachamim continues to exceed expectations.  Thank you!",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ5ODE=",
+              "name": "The Walt Disney Company",
+              "handle": "disney"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84OTQw",
+            "public_feedback": "ArielRachamim has a history of providing great reports to our program.  ",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ5ODE=",
+              "name": "The Walt Disney Company",
+              "handle": "disney"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84OTAy",
+            "public_feedback": "arielrachamim has been a consistent presence in the Secure@Sony program and is one of our most active and professional submitters. It is for this reason, combined with their well-written, concise, and outstanding contributions that we've named them the Secure@Sony Hacker of the Month for the month of October 2024! Thank you for helping make our network safer, and we look forward to continuing to collaborate with you in the future.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTY0Mjc=",
+              "name": "Sony",
+              "handle": "sony"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzYlMkYyMDIzLTA0LTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 36,
+      "start_date": "2023-04-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2025-04-01T11:00:18.794Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzI3",
+            "name": "Champ",
+            "image_path": "/assets/users/badges/champ_bronze-5e7254fe63d36fca68ffe321643d4367e370bada865118d17dccae46d4080f9e.png"
+          }
+        },
+        {
+          "awarded_at": "2025-02-28T18:52:25.818Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU1Ng==",
+            "name": "A2: Broken Authentication",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/xby58z32atzbwnyl5n1szhehwswz?response-content-disposition=inline%3B%20filename%3D%22owasp-A2.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A2.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQUR4DD3TR%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCn42ThrdsRsOKmi%2BteLH%2FqBU821JGivxRnFCmScFE0sAIhAJStsO6Xncvv9YyuMh%2FuV3XJqQdBBrObn8Tz1y5mgovnKrEFCGsQAxoMMDEzNjE5Mjc0ODQ5IgytATkJ2%2FMnrsJiDWYqjgUhaFPAe5uabdJs%2BxZdCgi5WgFJZnONdQxQ01mzJa2FhHuK%2Ba%2FYAWh7Ys7mfjJ29RAkRTTLd%2BujU9G%2BIL9Ot%2Fay%2BAjsMOb8ZQTUOFLJ7Icj%2BLqqjAiSfkZrA7uBgRFfJYW%2BYhrLXr9ir173z5xLAWyeYMgZk6U4IjGQMmXtvCBRGlHCM9XjLYIatwvUbbhinJSqMyxoV93L%2B16pKoaUV%2BaizvUQdjYx5CO5nRhO4iIicjXeA%2Fm%2FqCjPFmMZJAHldwInN%2B6W86NQFWMBrewnvOn%2FWR5d8BX1OBIoUdSC9MEkhOD05w9IY2nYOZ270yQCDYkXtYCgFQC68J%2FF0sjVOO8s9QwR8CCl3hu9BxVp5lD88eTor6O%2FsNZrhFt%2F0TsY%2BeWDU1W7t%2Biwm%2FcZNe%2BM8kMWvxi4duRahOYIP0BaE%2FU2tEbvfG6Oru5uAtp6RtSoCISV44V8Um4YEVPs8%2F8xhwzwHJfXearu8Q9WEMqIYBcnvx1rGbyuZIF36yFo68fS5d2NI4ep%2BmgiAVAZRqpKW1aBHFWVf3U0EUc6vz12ggRAeBi2qoXpKQLwUNf47L%2FQvoGcPZsu0vhRW47GXs3VwYvwkbZ8Avm6uSJlgiHffjR%2F45F9thk0fhzUODaSRwPaVRynnLFVNDNepw1aHGyAhy91DsRyAS%2FS%2BtcPoz5QhOdRQ9ir13EXm3%2BTotptYQrWKIY%2F%2BYc9kcuwUmYjzrRgx0LtOjWfSn5J3XOO9tCxzH6coGmdG0r1jshwuGrN37Je4VCuZM3Xq6b%2BT3vCv0ZMdHYO7tP2KhdSJlC4aeQpoIgeXY2fsKDSEUn9SvPT1d2ihhvDeyWyx%2BwmB%2BYvmAcnqobAUaqC%2FDJFA8JfeqIfzWcw2%2FS4zgY6sAHe8oKjMgPcoAsOloaI4T2x2IyLicDf1CQyWDFQqaR6fAZPYhepr2HhB9kH66PDvQMmYLDeqqgBKNBcsOQG8NTYQNJLE6LW3CoPZ1sBOxWH%2F0Cl71T0pDKe4VTAUZNodOBp4OirW4breFzkAgQ1AkS3sMKllMRLLkcq6LQFepUvQLdFhUdDYp0ctkzuCHp4e%2FCe%2Bi%2FzS5OkZPqEwt12zPyM82n4EdaDAAk3Pp6t28uyFA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f210be98df550e50cc1ca06b9987303bae7a17c6be4660c67e7776ca971c1b4a"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjM2MDgzNTY2",
+            "rank": 5,
+            "report_count": 859,
+            "total_report_count": 910,
+            "reputation": 6496,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjU0MDk4NjY4",
+            "rank": 6,
+            "report_count": 71,
+            "total_report_count": 107,
+            "reputation": 1644,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjI5NzAzNzAx",
+            "rank": 3,
+            "report_count": 183,
+            "total_report_count": 184,
+            "reputation": 1428,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzM0MDA=",
+              "name": "Expedia Group VDP",
+              "handle": "expediagroup",
+              "state": "public_mode",
+              "url": "https://hackerone.com/expediagroup"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjM0Mzk2MDg3",
+            "rank": 1,
+            "report_count": 21,
+            "total_report_count": 72,
+            "reputation": 1057,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ4Mzk=",
+              "name": "Clarivate",
+              "handle": "clarivate",
+              "state": "public_mode",
+              "url": "https://hackerone.com/clarivate"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjI2MDI5Njgx",
+            "rank": 14,
+            "report_count": 117,
+            "total_report_count": 132,
+            "reputation": 909,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM0Nw==",
+              "name": "Adobe",
+              "handle": "adobe",
+              "state": "public_mode",
+              "url": "https://hackerone.com/adobe"
+            }
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjU5NDM1",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Very helpful report with commands and screenshots. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80ODY2NQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-03-24T15:43:32.143Z",
+              "created_at": "2026-03-24T15:43:32.164Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQwODEz",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great work,  Thank you",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NTg1NQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-01-22T05:02:27.956Z",
+              "created_at": "2026-01-22T05:02:27.964Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTc0MzY=",
+                "name": "Daimler Truck"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQwODEy",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great work,  Thank you",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NTg1NA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-01-22T05:02:14.402Z",
+              "created_at": "2026-01-22T05:02:14.413Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTc0MzY=",
+                "name": "Daimler Truck"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTk2MzM3",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Arielrachamim provided a very well written and clear report for our program.  I would highly recommend including him in your program.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zODQzNg==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-07-28T13:56:59.508Z",
+              "created_at": "2025-07-28T13:56:59.528Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTI5NDAz",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Arielrachamim continues to exceed expectations.  Thank you!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yODU5OA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-01-03T00:38:57.820Z",
+              "created_at": "2025-01-03T00:38:57.834Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ5ODE=",
+                "name": "The Walt Disney Company"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIwOTQ0",
+      "signal": 6.4728682170542635,
+      "signal_percentile": 48,
+      "impact": 9.36,
+      "impact_percentile": 52,
+      "reputation": 3067,
+      "rank": 7
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ1NTc2",
+      "signal": 6.669724770642202,
+      "signal_percentile": 64,
+      "impact": 9.12280701754386,
+      "impact_percentile": 57,
+      "reputation": 14615,
+      "rank": 4
+    }
+  },
+  "arthuraires": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM3OTc3OQ==",
+    "username": "arthuraires",
+    "name": "Arthur Aires",
+    "created_at": "2020-11-03T00:13:26.770Z",
+    "location": "Macapá, AP",
+    "website": "https://arthurair.es",
+    "bio": "Kangaroos cannot jump here",
+    "intro": "Bug Hunter and Pentester with over 5 years of experience, recognized internationally in the field. Specialized in penetration testing, vulnerability assessments, client-side and server-side security, Red Team operations, and team management. Extensive expertise in vulnerability exposure and exploitation across various environments.  \r\n\r\nInvited six times by HackerOne (H1-512, H1-702-2022, H1-3493, H1-702-2023,H1-702-2024 and H1-468) to Live Hacking Events (LHE) for top-tier programs, including PayPal, AWS, Amazon, Zoom and Epic Games.  \r\n\r\nWith 1000+ paid and accepted vulnerability reports, I have a proven track record of identifying and reporting critical security flaws across global organizations.  \r\n\r\nOr simply: **Brazilian security researcher :)**",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "arthur4ires",
+    "gitlab_handle": "",
+    "linkedin_handle": "arthur-aires-93388211b",
+    "twitter_handle": "arthurair_es",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.844466600199402,
+    "signal_percentile": 88,
+    "impact": 21.809360730593607,
+    "impact_percentile": 91,
+    "reputation": 28842,
+    "rank": 40,
+    "resolved_report_count": 757,
+    "thanks_items_total_count": 167,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzklMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 39,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": [
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI1NTU1",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzE=",
+            "database_id": "1",
+            "name": "Web Applications"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzI1NTU2",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzY=",
+            "database_id": "6",
+            "name": "Android"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTg3",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzc=",
+            "database_id": "7",
+            "name": "iOS"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTg4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0MA==",
+            "database_id": "440",
+            "name": "AWS Services"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTg5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ3OA==",
+            "database_id": "478",
+            "name": "Cloud Environment"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTkw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ5NQ==",
+            "database_id": "495",
+            "name": "DynamoDB"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTkx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyMg==",
+            "database_id": "522",
+            "name": "Lambda"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTky",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUzMA==",
+            "database_id": "530",
+            "name": "Mobile"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTkz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ5Nw==",
+            "database_id": "497",
+            "name": "EC2"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTk0",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1MA==",
+            "database_id": "550",
+            "name": "Route53"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTk1",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1Mg==",
+            "database_id": "552",
+            "name": "S3"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzM3MTk2",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0NA==",
+            "database_id": "544",
+            "name": "REST"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQxMzcy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0Mw==",
+            "database_id": "443",
+            "name": "Artificial Intelligence / Machine Learning"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQxMzcz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0Ng==",
+            "database_id": "446",
+            "name": "Authentication"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQyNDc3",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUwNA==",
+            "database_id": "504",
+            "name": "External Network"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQyNDc4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUxNQ==",
+            "database_id": "515",
+            "name": "Initial Access"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQyNDc5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU=",
+            "database_id": "5",
+            "name": "Network Security"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ0ODU3",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0Ng==",
+            "database_id": "546",
+            "name": "Reconnaissance and Asset Discovery"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ2Mzc0",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUzMg==",
+            "database_id": "532",
+            "name": "Node"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ2ODM5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ2MQ==",
+            "database_id": "461",
+            "name": "Azure Services"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ2ODQw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU2OQ==",
+            "database_id": "569",
+            "name": "WebSockets"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3MjMy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ4NQ==",
+            "database_id": "485",
+            "name": "CloudFront"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ3MjMz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0Mw==",
+            "database_id": "543",
+            "name": "RDS"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ4NjU4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQzNg==",
+            "database_id": "436",
+            "name": "AI Safety"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ4NjU5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQzNw==",
+            "database_id": "437",
+            "name": "AI Security"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzQ4NjYw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU0MA==",
+            "database_id": "540",
+            "name": "Prompt Injection"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUxNDEw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUzMw==",
+            "database_id": "533",
+            "name": "OAuth"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUxNDM5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1Mw==",
+            "database_id": "553",
+            "name": "SAML / SSO"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUxNjU4",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1NQ==",
+            "database_id": "555",
+            "name": "SOAP"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUzOTUx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzg=",
+            "database_id": "8",
+            "name": "Windows Mobile"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzUzOTUy",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU1NA==",
+            "database_id": "554",
+            "name": "SFDC (Salesforce Apps)"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzU0MjQ5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUzMQ==",
+            "database_id": "531",
+            "name": "NoSQL"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzU3OTkw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUwMg==",
+            "database_id": "502",
+            "name": "Electron"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzU4NzI2",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ0",
+            "database_id": "44",
+            "name": "AWS Security Configuration Review"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzYwNDY5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUyMQ==",
+            "database_id": "521",
+            "name": "Kubernetes Engine"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzY0MTg5",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUzNQ==",
+            "database_id": "535",
+            "name": "OpenID"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzY2NzQz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzUwNg==",
+            "database_id": "506",
+            "name": "GCP Services"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzc1MzE3",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU2NA==",
+            "database_id": "564",
+            "name": "VPC"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzc1MzUw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzQ5MQ==",
+            "database_id": "491",
+            "name": "Data Storage Options"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzc4MDA0",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU2OA==",
+            "database_id": "568",
+            "name": "Web3"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzg1OTYz",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU2MQ==",
+            "database_id": "561",
+            "name": "Software Reverse Engineering"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzg5MDYw",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU3Mw==",
+            "database_id": "573",
+            "name": "Large Language Models"
+          }
+        },
+        {
+          "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclNraWxsLzkyMzcx",
+          "skill": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1NraWxsLzU2Mg==",
+            "database_id": "562",
+            "name": "Source Code"
+          }
+        }
+      ]
+    },
+    "pentester_profile": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1BlbnRlc3RlclByb2ZpbGUvMTU1",
+      "name": "Arthur Aires",
+      "completed_pentests_number": 37,
+      "certifications": {
+        "edges": [
+          {
+            "node": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb25zUGVudGVzdGVyUHJvZmlsZS8zMzg0",
+              "certification": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0NlcnRpZmljYXRpb24vNA==",
+                "name": "Offensive Security Web Expert",
+                "short_name": "OSWE"
+              },
+              "certification_identifier": "gs.e8u0fx",
+              "starts_at": "2024-08-24",
+              "ends_at": null
+            }
+          }
+        ]
+      }
+    },
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-17T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzEwMDg=",
+            "name": "H1-468 | Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rboaftogynnfy7su3nxmv4js9pqb"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2025-07-23T14:18:48.691Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU1OA==",
+            "name": "A4: XML External Entities (XXE)",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/81g6elvx15ggixwhcud7sar861ut?response-content-disposition=inline%3B%20filename%3D%22owasp-A4.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A4.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ5V75QIOU%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDYaGAtW3nvo3uJfj8Nh1KaIGJmMnZ%2FiC77Fl%2FOdDm%2BsAiBKyEV80IFanvp%2Fo5Kw2co0tXfHxPMOILpgl8Us7LkAWiqxBQhsEAMaDDAxMzYxOTI3NDg0OSIMlHw6wQlQARNrSMEdKo4FCGz5ASv1AO4uW8RmTAZIXs6zSt%2BmsbQIkgkyUbPL4LKdlPM7MQ%2F0TR9%2F11R3qrCz7JGM4cLYZo%2FQidKuwfnmbbhq%2BCBdWfp2lSaTWkgTyfKV9nDCGUxscGzz%2F7PnMd%2Bvots%2B3GP%2Bgqfk0c31E5CPP2CgKx1h0YnVSKXAUHQHvLX3Fa1bX568tTSNCjO%2Bjcoisc%2BbEwkHpbyWuyH95xBjc%2BoShvrNyk5GoRjsnAGbNIwJ5R0hXvYiNFh4Uo1Gj%2BgfJhNvlNP4dNcECUb7WFv0RlftILrYR6Ff62dwf8TXyGguSU%2F83ZWfH%2FU7jlBOV6IVhl7eEv87qJuLcxsuU4hW9IyJJnfGp9Y2X%2BcH5wVpUeIqzPIjoqKvG4DVHVLNG5%2FcQE9IvjRv9hdcLJR%2FauV56Z2bZyW9hknTyDcf9AgRKGeZP2acXTePxjeqr26l2IeLCSVuXuETg6UWvhzx0wRAzSmRlchurZZ8MQfOOy4kquxyq1oQVVdexdShZ7VWPo0Okla7AT0e1UL0IWV9aWcbHObTsz2CHoJXt6WlD0Ypw1B6yTKM3IPghDLmsljTW8HeiLB8CADn7VTJBS6gI55CKXuP1x%2Bl%2Bc1xactJx1%2BX5sW2zqQPxMAF1aMA1dQ1qOQOfCHRXt9SMyWpp54pCg%2BOkyflijKTYWrngeMXTSK857YwbklOEe8jEjPSDXXFJi2G3x%2BEq3uCADeAOin%2B1siysapTDj2jzaJR7kz1zLWVzSWmNYOC%2FkoO8YNEYysUHadT%2FyMXLavgulfZZU9%2Bs9mvuh2Fv1c4nWeBjxn3CTDau78roVHj2MNinfzVsqjZOpkKZhEj0LWkTauwplIewOniAtktK8KsvYp44o3Yg5q8MKeQuc4GOrIBwajSyE824Iu%2BruHnzCfmOgEpOxCjfnTrAwdkjPubWLTerIvzzHcHJjYWZHs5GUpTCD6v0cvUhlaKP3Vtn%2FOMXC4hb6PaHVhY0eTRP7aZEA9jMUDV0e9fh9m7n2aALlsPa85hcAJZ7NZXMxPnKWJZo0osXMx3c4xSY4O%2BfwJDVnWZWFm3tEn%2FrK9E6qohoHHZZIoLQgu%2FdLU1i6HN9EKe94wrIJWIJR9HdWspF2ZDDb%2FZ5g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1512fb322275e1069b076558d231e3e7d45121e5ac46b9afc18b82ddd096ed7f"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTk5NTQzMzc3",
+            "rank": 2,
+            "report_count": 342,
+            "total_report_count": 451,
+            "reputation": 11300,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTYxNjY1MjE1",
+            "rank": 1,
+            "report_count": 78,
+            "total_report_count": 97,
+            "reputation": 2800,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU1NDU3",
+              "name": "Hilton",
+              "handle": "hilton",
+              "state": "public_mode",
+              "url": "https://hackerone.com/hilton"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTczNTU0NjQw",
+            "rank": 1,
+            "report_count": 54,
+            "total_report_count": 77,
+            "reputation": 1925,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTE2MDU2MjU0",
+            "rank": 1,
+            "report_count": 46,
+            "total_report_count": 87,
+            "reputation": 1009,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTMzMTQzODg1",
+            "rank": 1,
+            "report_count": 31,
+            "total_report_count": 34,
+            "reputation": 921,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjU5NDY4",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Great researcher to work with.  Extremely professional.\n",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80ODY3Nw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-03-25T14:20:27.879Z",
+              "created_at": "2026-03-25T14:20:27.903Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjUzMTQy",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great researcher to work with!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80Nzc0OA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-03-04T20:08:16.991Z",
+              "created_at": "2026-03-04T20:08:17.011Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjUyOTM3",
+            "key": "hacker_review_legacy",
+            "rating": 4,
+            "public_comment": "Great researcher to work with!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NzcxOA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-03-04T15:48:00.640Z",
+              "created_at": "2026-03-04T15:48:00.675Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQ1NTgz",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great researcher to work with.  Extremely professional.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NjY1Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-02-11T22:00:19.653Z",
+              "created_at": "2026-02-11T22:00:19.672Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQ1NTgw",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great researcher to work with.  Extremely professional.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NjY1MA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-02-11T18:40:15.410Z",
+              "created_at": "2026-02-11T18:40:15.429Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIwODQ5",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 26.904761904761905,
+      "impact_percentile": 90,
+      "reputation": 2981,
+      "rank": 8
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ1Mzkx",
+      "signal": 6.9547169811320755,
+      "signal_percentile": 66,
+      "impact": 23.775510204081634,
+      "impact_percentile": 87,
+      "reputation": 7122,
+      "rank": 31
+    }
+  },
+  "jayesh25": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODk4ODYw",
+    "username": "jayesh25",
+    "name": "jayesh25",
+    "created_at": "2020-01-08T19:12:31.892Z",
+    "location": "Dubai",
+    "website": "https://ethicalinfosec.com/",
+    "bio": "",
+    "intro": "Ethical InfoSec Services - Your one stop shop for all security solutions!",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.8925848925848925,
+    "signal_percentile": 88,
+    "impact": 22.65848670756646,
+    "impact_percentile": 92,
+    "reputation": 48463,
+    "rank": 6,
+    "resolved_report_count": 1191,
+    "thanks_items_total_count": 225,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzklMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 39,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-17T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzEwMDg=",
+            "name": "H1-468 | Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rboaftogynnfy7su3nxmv4js9pqb"
+          }
+        },
+        {
+          "awarded_at": "2026-03-16T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkzMA==",
+            "name": "H1-6102 2025 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t73my2xp058o64dsdrcenfhcm480"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTY4OTczNjYx",
+            "rank": 1,
+            "report_count": 352,
+            "total_report_count": 377,
+            "reputation": 13677,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vODA1NzIwNTg=",
+            "rank": 1,
+            "report_count": 166,
+            "total_report_count": 181,
+            "reputation": 4412,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vODU5OTI3ODE=",
+            "rank": 1,
+            "report_count": 81,
+            "total_report_count": 90,
+            "reputation": 2496,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNTI0OTM2MzE=",
+            "rank": 5,
+            "report_count": 58,
+            "total_report_count": 91,
+            "reputation": 1839,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzcxMjMyMDI0",
+            "rank": 14,
+            "report_count": 1,
+            "total_report_count": 23,
+            "reputation": 1701,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjM5Nzkx",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Great experience as always. Very clear steps to reproduce, and very good response time on our retest requests. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NTY4NA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-01-13T20:28:52.230Z",
+              "created_at": "2026-01-13T20:28:52.242Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTYzOTcx",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Thank you for your assistance and partnership in identifying this vulnerability.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zMzY1Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-04-08T15:29:00.092Z",
+              "created_at": "2025-04-08T15:29:00.119Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTQwNDg4",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Thank you for your assistance and partnership in identifying this vulnerability.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zMDIzNA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-02-05T15:55:46.849Z",
+              "created_at": "2025-02-05T15:55:46.862Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTM5Njc5",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Thank you for your assistance and partnership in identifying this vulnerability.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zMDA5NA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-02-03T20:13:48.029Z",
+              "created_at": "2025-02-03T20:13:48.049Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTM5MTYx",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Thank you for your assistance and partnership in identifying this vulnerability.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zMDAwOQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-01-31T13:51:47.445Z",
+              "created_at": "2025-01-31T13:51:47.461Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE5OTg2",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 20.481927710843372,
+      "impact_percentile": 78,
+      "reputation": 2916,
+      "rank": 9
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQzNjMz",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 24.345454545454544,
+      "impact_percentile": 88,
+      "reputation": 11369,
+      "rank": 10
+    }
+  },
+  "n0xi0us": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTY5MzIyNQ==",
+    "username": "n0xi0us",
+    "name": "Angel Montes",
+    "created_at": "2021-05-01T09:35:07.863Z",
+    "location": "",
+    "website": null,
+    "bio": "",
+    "intro": "I'm open to new private program invitations: n0xi0us@wearehackerone.com",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "amontesg",
+    "twitter_handle": "_N0xi0us_",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": false,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.930535455861071,
+    "signal_percentile": 89,
+    "impact": 18.151515151515152,
+    "impact_percentile": 85,
+    "reputation": 20624,
+    "rank": 72,
+    "resolved_report_count": 424,
+    "thanks_items_total_count": 291,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzklMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 39,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-17T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzk4Nw==",
+            "name": "H1-65 | Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t17flb9ziboy75t0u3ixekmbs3kr"
+          }
+        },
+        {
+          "awarded_at": "2026-03-16T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkzMA==",
+            "name": "H1-6102 2025 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t73my2xp058o64dsdrcenfhcm480"
+          }
+        },
+        {
+          "awarded_at": "2026-02-19T08:01:23.819Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU2Mw==",
+            "name": "A9: Using Components with Known Vulnerabilities",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/c6eco0ojysqeinzscmwww9frxy68?response-content-disposition=inline%3B%20filename%3D%22owasp-A9.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A9.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQZUDLVJYO%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110909Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICi4XbYhTW9HrtBc0%2BZFqjRJYP55BcrORohqltzSyX2kAiAEndlNRrNitIy%2FrlFnIK4NKBVcZZSWSuywJ02uT0tm6CqxBQhrEAMaDDAxMzYxOTI3NDg0OSIMF8hKwJvwVEPgDVnnKo4FXJ%2By1%2B2WfQDUkzmWIszrBqD8h6mAthqMaolOCNndQhucgqMYqmyr%2FnuKN%2BH5uimSq3UmW9f4a489gIKVppN6nphzKFtV1SK1dBE3TGUihLJ7%2FRtDscB80Gz3ho8OI9CiAVtlU6Tr5IQiAANzf6lDG6x42kclD6ogXU2fWPsRKMoK6SXK9Yt%2F5nMTdD5rOd8NZkmyplZ2lO2j5f2pw6MhRtRhradUqdZ%2BQrgVx6OA7JLC%2BOG4X2oOB19Kuw%2BO4%2BOk0d6GAGZ%2F9dYYEE93FpZACS0ET3RA5y%2Bkz%2Bm%2F2un%2FAb6c8egA%2BA0AC7ISIr0inxsnHye%2FWNeP04QVSwDRhkTU8MkTEpotG8KG%2FdUjVf%2B7kuFg%2FkoB81Fs5NGHF73gS0%2B69LxpeC9VVNfkx5S%2F6gi%2ByAk7MZLXZyu9AMPpSezhT5YwiGKg1yd%2Ff1wmBT%2BI1eqlb8WVQADyhkFUX3Ganp40Z1mGxlzOMLDwneWltXfR7Co%2BdgEfWIzbZL1DDeZ%2B3%2BCeHa4n91Pp%2FyD5Hsnz6PeGAasQU6XCJt0zUr2iXOT%2BKH9Cdcq59wmxoKf%2F2WOct51B9mNcDvHaqNdxFpnXxAPXiZMQNY74TFEXfYBSDVxrM6AEYU0jGoyPccZ7wA3ORaHxo9Jb%2Bz7Mvcra7MxCCoP4Yj8ko%2Bi1xohnXukPdy0c8YGe2qedffIOrkeS190hec9pid8bmA%2FuunpaF0F2NxNg4Rk6ZuwHC7tO0afjvoUBF%2B6imqaXFKtw1TQDr6jJEH0ohM1HH09CnJoX1XWdm06UuqLR7E6tfYnvWIa3eBrd4ffmOBjgtJsBRnx%2F27zvZujrUKSXLxWpWUZOeWFMQRlXUzQB3Yc4gLVrAaOw79LcMIr2uM4GOrIBe3UBTn3TFBxgWCQKAxc6O6xMqosj8rRj40kfqoQ2xKCQkhDc9i6Pz1HCt0%2BGg0ylk1FqVjmdegI%2BLf6n7h20nIZ54uAfZSQActziDzKO3Wg3JluSxdO%2BfP%2FmLw6hcbK4HqYCgl5JfYrP6IHfif5IowzFiTdZ0vhRITrp86YAJczuS4wtqa9ZQyXtwisOqYQV51uHt3Gl741lfz0QWV5AMbFjAmQoRA0TvRn7qYUWuCKlaA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=68b3cc2bcb2ecc00c97a0778d6f0bee8f943dacee6bc1691481a2ec967e4a981"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTY3Nzk1Nzgx",
+            "rank": null,
+            "report_count": 16,
+            "total_report_count": 23,
+            "reputation": 248,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTkzMTE5NjUz",
+            "rank": 51,
+            "report_count": 12,
+            "total_report_count": 16,
+            "reputation": 166,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwNzg=",
+              "name": "Booking.com",
+              "handle": "bookingcom",
+              "state": "public_mode",
+              "url": "https://hackerone.com/bookingcom"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTc1MDk5MzA3",
+            "rank": null,
+            "report_count": 4,
+            "total_report_count": 13,
+            "reputation": 134,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzIzMjMz",
+              "name": "Epic Games",
+              "handle": "epicgames",
+              "state": "public_mode",
+              "url": "https://hackerone.com/epicgames"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTYyOTg5MjYy",
+            "rank": 36,
+            "report_count": 0,
+            "total_report_count": 0,
+            "reputation": 124,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQ2NTgx",
+              "name": "Alibaba BBP",
+              "handle": "alibaba",
+              "state": "public_mode",
+              "url": "https://hackerone.com/alibaba"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzQzODkxMzky",
+            "rank": 11,
+            "report_count": 2,
+            "total_report_count": 4,
+            "reputation": 111,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzYwNTkx",
+              "name": "Superbet",
+              "handle": "superbet",
+              "state": "public_mode",
+              "url": "https://hackerone.com/superbet"
+            }
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "Mg",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjU5NDM2",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great report and quick replier. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80ODY2Ng==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-03-24T16:52:54.305Z",
+              "created_at": "2026-03-24T16:52:54.323Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNjA2ODA=",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Working with n0xi0us was positive, he clearly explained the vulnerability and was patient and kind with the wait and our requirements.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xODM3Ng==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-03-07T16:23:06.392Z",
+              "created_at": "2024-03-07T16:23:06.408Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIxMzE3",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 18.181818181818183,
+      "impact_percentile": 71,
+      "reputation": 2868,
+      "rank": 10
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ2NDMy",
+      "signal": 6.859649122807017,
+      "signal_percentile": 65,
+      "impact": 19.34049079754601,
+      "impact_percentile": 78,
+      "reputation": 9615,
+      "rank": 14
+    }
+  },
+  "nishant57": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTg2ODUzNA==",
+    "username": "nishant57",
+    "name": "Nishant Bhagat",
+    "created_at": "2021-07-27T18:20:36.002Z",
+    "location": "",
+    "website": null,
+    "bio": "https://github.com/Nishantbhagat57",
+    "intro": "Open to private invites and other opportunities - nishant57@wearehackerone.com",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "Nishantbhagat57",
+    "gitlab_handle": "",
+    "linkedin_handle": "nishantbhagat57",
+    "twitter_handle": "",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": true,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.890909090909091,
+    "signal_percentile": 88,
+    "impact": 19.2,
+    "impact_percentile": 87,
+    "reputation": 5316,
+    "rank": 490,
+    "resolved_report_count": 161,
+    "thanks_items_total_count": 74,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMTglMkYyMDI0LTExLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTA0LTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 18,
+      "start_date": "2024-11-01T00:00:00.000Z",
+      "end_date": "2026-04-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-27T22:59:29.015Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzEy",
+            "name": "Streaker",
+            "image_path": "/assets/users/badges/streak_gold-8a3287eb26c3cb84fb882d526fae22f279a8fa8ee8e875cbd7e8f778382e00df.png"
+          }
+        },
+        {
+          "awarded_at": "2026-02-04T19:19:11.127Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzY=",
+            "name": "Bounty Hunter",
+            "image_path": "/assets/users/badges/bounty_gold-87e364515b87d4c1b034d639ce2bfe02b824c32b11e657b80e5495c9b3a53914.png"
+          }
+        },
+        {
+          "awarded_at": "2025-11-28T09:08:45.012Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzI=",
+            "name": "Insecticide",
+            "image_path": "/assets/users/badges/resolved_silver-fa623eea2397abeca120570f052ea2afd0fd14cc9a5e2b45579fed282d1f8c35.png"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzU2MDY3ODY1",
+            "rank": 2,
+            "report_count": 91,
+            "total_report_count": 148,
+            "reputation": 2476,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTkyMjYyNTU2",
+            "rank": 16,
+            "report_count": 14,
+            "total_report_count": 17,
+            "reputation": 353,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE5ODk=",
+              "name": "Starbucks",
+              "handle": "starbucks",
+              "state": "public_mode",
+              "url": "https://hackerone.com/starbucks"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzY5NDkzMzQx",
+            "rank": 3,
+            "report_count": 2,
+            "total_report_count": 2,
+            "reputation": 175,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzM0MzA5NDQz",
+            "rank": 32,
+            "report_count": 6,
+            "total_report_count": 11,
+            "reputation": 145,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDEwMTM3MzQw",
+            "rank": 6,
+            "report_count": 0,
+            "total_report_count": 0,
+            "reputation": 132,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": null,
+        "hasNextPage": false
+      },
+      "edges": []
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIxNTc1",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 18.854166666666668,
+      "impact_percentile": 74,
+      "reputation": 2843,
+      "rank": 11
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ2OTQ5",
+      "signal": 6.937823834196891,
+      "signal_percentile": 66,
+      "impact": 18.37748344370861,
+      "impact_percentile": 76,
+      "reputation": 4441,
+      "rank": 52
+    }
+  },
+  "yash_005": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI4MDIwMA==",
+    "username": "yash_005",
+    "name": "Yash Sharma",
+    "created_at": "2020-08-09T11:21:31.964Z",
+    "location": "",
+    "website": null,
+    "bio": "",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "yash-sharma-35359117b",
+    "twitter_handle": "05__Yash",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.608222490931076,
+    "signal_percentile": 87,
+    "impact": 20.049180327868854,
+    "impact_percentile": 89,
+    "reputation": 26628,
+    "rank": 48,
+    "resolved_report_count": 609,
+    "thanks_items_total_count": 213,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzglMkYyMDIzLTAyLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 38,
+      "start_date": "2023-02-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-17T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzEwMDg=",
+            "name": "H1-468 | Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rboaftogynnfy7su3nxmv4js9pqb"
+          }
+        },
+        {
+          "awarded_at": "2025-12-15T16:47:05.194Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzM=",
+            "name": "Insecticide",
+            "image_path": "/assets/users/badges/resolved_gold-baf3765f7e2ead9b90572983821066d4bd7227674cf55455e5968d6198cbeb6d.png"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjM0Njk3MTU1",
+            "rank": 7,
+            "report_count": 48,
+            "total_report_count": 86,
+            "reputation": 1012,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzIwNA==",
+              "name": "Glassdoor",
+              "handle": "glassdoor",
+              "state": "public_mode",
+              "url": "https://hackerone.com/glassdoor"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjY3ODI3NTQx",
+            "rank": 13,
+            "report_count": 16,
+            "total_report_count": 62,
+            "reputation": 746,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQ0MDAy",
+              "name": "Amazon Vulnerability Research Program",
+              "handle": "amazonvrp",
+              "state": "public_mode",
+              "url": "https://hackerone.com/amazonvrp"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjE0ODUxMDI1",
+            "rank": 3,
+            "report_count": 6,
+            "total_report_count": 13,
+            "reputation": 211,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUyMTA1",
+              "name": "Clubhouse",
+              "handle": "clubhouse",
+              "state": "public_mode",
+              "url": "https://hackerone.com/clubhouse"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzQyNzY2NTU1",
+            "rank": 26,
+            "report_count": 3,
+            "total_report_count": 9,
+            "reputation": 135,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzI5NDM=",
+              "name": "Eternal",
+              "handle": "eternal",
+              "state": "public_mode",
+              "url": "https://hackerone.com/eternal"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDEwMzU0MDY2",
+            "rank": 11,
+            "report_count": 0,
+            "total_report_count": 0,
+            "reputation": 66,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzkyNDA2",
+              "name": "OPPO",
+              "handle": "oppo_bbp",
+              "state": "public_mode",
+              "url": "https://hackerone.com/oppo_bbp"
+            }
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "Mw",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjUxMTg1",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Yash has been one of the most impactful researchers in our bug bounty program. They consistently find meaningful vulnerabilities, provide excellent write-ups, and collaborate thoughtfully during remediation.\n\nTheir combination of technical skill, persistence, and professionalism makes them a standout contributor. We’re grateful for their work and would happily recommend them to any program looking for high-quality security research.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NzQ2MA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-02-25T21:10:07.412Z",
+              "created_at": "2026-02-25T21:10:07.428Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTUxNTEw",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "We had the pleasure of working with Yash_005 through our bug bounty program, and their contributions have been exceptional. Yash_005’s ability to identify critical security vulnerabilities, combined with deep technical expertise and a methodical approach to ethical hacking, has significantly enhanced our security posture.\nYash_005 consistently demonstrates professionalism, responsiveness, and an attacker’s mindset, all while upholding the highest ethical standards. Rather than relying solely on standard tools, Yash_005 thinks like an adversary, allowing them to uncover sophisticated vulnerabilities before they could be exploited.\nWe highly recommend Yash_005 to any organization seeking to strengthen its security through ethical hacking and responsible disclosure. Their dedication, technical skill, and strategic mindset make them a valuable asset to any security team and set them apart in the bug bounty community.\n",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8zMTg4Ng==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-03-13T13:48:24.935Z",
+              "created_at": "2025-03-13T13:48:24.959Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTEyNzYx",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Experienced and professional hacker.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNjE2Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-11-05T09:12:56.605Z",
+              "created_at": "2024-11-05T09:12:56.623Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDIwNjIx",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 19.285714285714285,
+      "impact_percentile": 76,
+      "reputation": 2655,
+      "rank": 12
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQ0OTE3",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 19.818840579710145,
+      "impact_percentile": 79,
+      "reputation": 12354,
+      "rank": 8
+    }
+  },
+  "supermancyber": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg0NTYzOA==",
+    "username": "supermancyber",
+    "name": "Jeffrey",
+    "created_at": "2023-08-05T04:14:50.708Z",
+    "location": "Indonesia",
+    "website": null,
+    "bio": "",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "jeffreyverdianto",
+    "twitter_handle": "",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.987193169690501,
+    "signal_percentile": 89,
+    "impact": 16.888528138528137,
+    "impact_percentile": 82,
+    "reputation": 23772,
+    "rank": 62,
+    "resolved_report_count": 561,
+    "thanks_items_total_count": 65,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84ODk5",
+            "public_feedback": "Top-ranked HackerOne researcher participating in our Freshworks bug bounty program. He is known for his exceptional vulnerability discovery skills and has made significant contributions to improving the security of our products.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUwMTY2",
+              "name": "Freshworks ",
+              "handle": "freshworks"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMjglMkYyMDIzLTEyLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 28,
+      "start_date": "2023-12-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-17T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzk4Nw==",
+            "name": "H1-65 | Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t17flb9ziboy75t0u3ixekmbs3kr"
+          }
+        },
+        {
+          "awarded_at": "2026-01-12T16:15:40.226Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzM=",
+            "name": "Insecticide",
+            "image_path": "/assets/users/badges/resolved_gold-baf3765f7e2ead9b90572983821066d4bd7227674cf55455e5968d6198cbeb6d.png"
+          }
+        },
+        {
+          "awarded_at": "2025-11-27T23:49:05.327Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzEy",
+            "name": "Streaker",
+            "image_path": "/assets/users/badges/streak_gold-8a3287eb26c3cb84fb882d526fae22f279a8fa8ee8e875cbd7e8f778382e00df.png"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjM1ODc5MDc1",
+            "rank": 1,
+            "report_count": 207,
+            "total_report_count": 561,
+            "reputation": 6657,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQ5NzA4",
+              "name": "TikTok",
+              "handle": "tiktok",
+              "state": "public_mode",
+              "url": "https://hackerone.com/tiktok"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjQyMDY2MDQ5",
+            "rank": 1,
+            "report_count": 149,
+            "total_report_count": 315,
+            "reputation": 3936,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUwMTY2",
+              "name": "Freshworks ",
+              "handle": "freshworks",
+              "state": "public_mode",
+              "url": "https://hackerone.com/freshworks"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjY3OTU5NzEw",
+            "rank": 1,
+            "report_count": 30,
+            "total_report_count": 174,
+            "reputation": 2739,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjY3ODI1MTg5",
+            "rank": 1,
+            "report_count": 85,
+            "total_report_count": 178,
+            "reputation": 1720,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzM1MTE5Nzk5",
+            "rank": 5,
+            "report_count": 31,
+            "total_report_count": 48,
+            "reputation": 1289,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzNDI4",
+              "name": "Acronis",
+              "handle": "acronis",
+              "state": "public_mode",
+              "url": "https://hackerone.com/acronis"
+            }
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "Mg",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTEyMjk4",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Top-ranked HackerOne researcher participating in our Freshworks bug bounty program. He is known for his exceptional vulnerability discovery skills and has made significant contributions to improving the security of our products.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNjA4Mg==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-11-01T08:17:43.497Z",
+              "created_at": "2024-11-01T08:17:43.519Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUwMTY2",
+                "name": "Freshworks "
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vOTkzODI=",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "This person is a true hacker, submitting novel and creative findings. This hacker's work has not just resulted in us patching bugs but also fundamentally improved processes. Reports were clear, reproducible, communication was very good. This person complies with non-disclosure policies and understands the sensitivity and challenges that Bounty Program Owners have. I want to thank the hacker specifically for professionalism.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yNDA3MA==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-09-13T03:35:49.163Z",
+              "created_at": "2024-09-13T03:35:49.178Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDI0MDM2",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 17.289719626168225,
+      "impact_percentile": 68,
+      "reputation": 2608,
+      "rank": 13
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDUyNDc2",
+      "signal": 6.973154362416107,
+      "signal_percentile": 66,
+      "impact": 17.701421800947866,
+      "impact_percentile": 73,
+      "reputation": 10978,
+      "rank": 11
+    }
+  },
+  "teslatheg0d": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODQ4OTY3",
+    "username": "teslatheg0d",
+    "name": "TeslaTheG0d",
+    "created_at": "2019-12-07T12:14:10.213Z",
+    "location": "Internet",
+    "website": "https://teslasecurity.pro",
+    "bio": "~comewithme, No actually Don't!",
+    "intro": "> Loves Computers and Hacking Them,\r\n> \r\n> \r\n> Me and My cat Found those Bugzzz..........\r\n>\r\n> \r\n> Even lightning got caught lacking. \r\n> \r\n>\r\n> \r\n> Where are the Exploits at ?  https://www.youtube.com/@teslatheg0d-YT\r\n\r\n\r\nSend Private Invites to Email: `teslatheg0d@wearehackerone.com`",
+    "profile_activated": true,
+    "bugcrowd_handle": "teslatheg0d",
+    "hack_the_box_handle": "451793",
+    "github_handle": "teslatheg0d",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "TeslaTheGod",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": false,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.894988066825776,
+    "signal_percentile": 88,
+    "impact": 21.270983213429258,
+    "impact_percentile": 90,
+    "reputation": 23774,
+    "rank": 61,
+    "resolved_report_count": 731,
+    "thanks_items_total_count": 37,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMjclMkYyMDI0LTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 27,
+      "start_date": "2024-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-12-22T15:23:55.096Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU1NQ==",
+            "name": "A1: Injection",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/7ibx58droagpkcm3zyeo0j70ortw?response-content-disposition=inline%3B%20filename%3D%22owasp-A1.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A1.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQT6NVNKKG%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110922Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHTVUCOAcR7rN0ySVJpkTWBnakEPzNfQ9g9XGMF9qD2HAiAIagWUxQe3Y7CqLvFLY8K8WJHSYUhwPAzpSrBLQRwpXyqyBQhsEAMaDDAxMzYxOTI3NDg0OSIM0Sgi%2FrlBwrUsR1rHKo8F6fhF2zMICOhYuOWlrffIiLYt2NzUuSXra1J8ZQhLPFx9kl1voSl3GmLSw5A9s3xhRNqKQUlNgnQm%2Fs6mr1g8grtSaIwhSylWogKUZGgc40i90K%2BoFysw9x1WOETkhEP8tjKc6r23qnUATIIjLfuXtS4yZWJkdgG%2BBtjnQoijaazJOjJIVMzsHq2RF2RBDkTeRMqUyHnECt1x8visVtKIZ1uVO7tmIYPrFiVArLNDeQ%2BH9gim4KSjQ2DQ3cbUPhDFsOlTwvq73p%2BIA172FqVjdoi1hYUQ%2BE3FegrVl8MvAzhujhe13B8Zot3Ni7d%2FVbblwo0ag5EDH%2FyGZgFhqgxf4c1hR4ugP%2Fi0lvONK6PT%2FxwHa%2Bf8RGLjrXY3FxjMNgUzHkGqeMPLOCQP2KPV0CMWRgoLKPArKH4iS5BIaAm1dpgLeSCUAPbXTAd4YMmQytaFmzJk3k%2FwxH6YPA1qpfSbQiasq%2BnSNv6XKXWaTJiYQIO5%2BWGNMyxcm2Cstlfsele1uO0FzXdiuJk5I0mSKynJOOmOXFsYaFIYsY%2BBa3zfBL1bAqnQ%2FOG0VnDIi6iZ9FfU3soAc43HGhex8Hxn9JmjaIgXY01y7sWzyABCwaZZnAj%2FA0p2rrom9VecJAPHrCSCKDEp%2BDUGKx%2BeZkY%2BcWz8CIsys%2B%2FiGJXfeQrpzoNiJMa0%2F%2FMmdkZGJk9FJuB4DEuR2siPoaY64YVLOQhrlgV7FLQkNNuEu5RnxS2C50IWJfdGOYdkq49Oy3UHBgRdOGNyoLr1AcwUjx1PuYbvV%2Bo9SYV6hkfTzJpeo0PTt%2FpaiqJPwEz%2FJXCm2QH6ZbPqzq3WmUrUHP3dhW6DsMQH0mZXUEOLESQ%2FAWxvt%2BpRg%2BtaaDDSiLnOBjqyARom8fXZglYIMWZd25FBVgctDuYipO3mxjzDZgCjkJBDWfIU7deW%2BLRL4wjWvWkoJ1qgyKYNIuCDLbAjaQweY9fdOg3YZEfV44%2BxIwuxks1byHY2o9vEOlvxwLdgcN%2FswmwHH4RIfXYFcSKKvgwZfJWdORCGr9oQV32zSpKpm4PyNKsmpCUDZI4t6TAXi6NtBOgmtfC1GL0xW%2FHHzvNr1wx2LF4WAqvUZJgskAZSHg1SzP4%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9bb11b235b450adc15bed7ccd9df8357e5598b11b4aae4b3e29af55a4c00ad30"
+          }
+        },
+        {
+          "awarded_at": "2025-11-10T12:38:49.079Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzM=",
+            "name": "Insecticide",
+            "image_path": "/assets/users/badges/resolved_gold-baf3765f7e2ead9b90572983821066d4bd7227674cf55455e5968d6198cbeb6d.png"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjU1NjkyNzEz",
+            "rank": null,
+            "report_count": 9,
+            "total_report_count": 9,
+            "reputation": 240,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjgzMjcxOTc4",
+            "rank": 36,
+            "report_count": 0,
+            "total_report_count": 1,
+            "reputation": 57,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzgxNTY=",
+              "name": "Flipkart",
+              "handle": "flipkart",
+              "state": "public_mode",
+              "url": "https://hackerone.com/flipkart"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTc0MTg1MTU5",
+            "rank": null,
+            "report_count": 1,
+            "total_report_count": 1,
+            "reputation": 22,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMzQz",
+              "name": "LY Corporation",
+              "handle": "line",
+              "state": "public_mode",
+              "url": "https://hackerone.com/line"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTg0OTA4NzU0",
+            "rank": 34,
+            "report_count": 1,
+            "total_report_count": 2,
+            "reputation": 22,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUyMTAx",
+              "name": "Linktree",
+              "handle": "linktree",
+              "state": "public_mode",
+              "url": "https://hackerone.com/linktree"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vODYzNzI4NTc=",
+            "rank": null,
+            "report_count": 1,
+            "total_report_count": 1,
+            "reputation": 2,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzg1ODI=",
+              "name": "Kiwi.com",
+              "handle": "kiwicom",
+              "state": "public_mode",
+              "url": "https://hackerone.com/kiwicom"
+            }
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": null,
+        "hasNextPage": false
+      },
+      "edges": []
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE5OTAx",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 29.375,
+      "impact_percentile": 92,
+      "reputation": 2600,
+      "rank": 14
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQzNDY3",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 21.51804670912951,
+      "impact_percentile": 83,
+      "reputation": 13208,
+      "rank": 7
+    }
+  },
+  "mister_mime": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjgyMDkx",
+    "username": "mister_mime",
+    "name": "Théo Cusnir",
+    "created_at": "2018-05-24T16:48:37.847Z",
+    "location": "",
+    "website": "https://mistermime.fr/",
+    "bio": "",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "4bg0p",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "theocusnir",
+    "twitter_handle": "4bg0p",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.61916461916462,
+    "signal_percentile": 87,
+    "impact": 23.670212765957448,
+    "impact_percentile": 93,
+    "reputation": 11785,
+    "rank": 182,
+    "resolved_report_count": 257,
+    "thanks_items_total_count": 118,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMTUlMkYyMDI1LTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 15,
+      "start_date": "2025-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-11-18T19:57:17.423Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE3",
+            "name": "Good Samaritan",
+            "image_path": "/assets/users/badges/samaritan-d9df23bc0d274e46f53eeae4edc794dc6d212fcb7761efd60f822292ba436d1b.png"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-07-26T13:33:01.211Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzIy",
+            "name": "Diversity",
+            "image_path": "/assets/users/badges/diversity_gold-0556260c84a738c060d14b1c65ad1c3abfb9b878e9264e2403a2f073eb0ddf7a.png"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNzk0ODEyNDE=",
+            "rank": 19,
+            "report_count": 1,
+            "total_report_count": 21,
+            "reputation": 1408,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjY4OTc2Njc=",
+            "rank": 2,
+            "report_count": 20,
+            "total_report_count": 22,
+            "reputation": 930,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM4NDcw",
+              "name": "Smartsheet",
+              "handle": "smartsheet",
+              "state": "public_mode",
+              "url": "https://hackerone.com/smartsheet"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjc3NDU4Mzc=",
+            "rank": 1,
+            "report_count": 20,
+            "total_report_count": 25,
+            "reputation": 715,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTY1OTA0MTc0",
+            "rank": 6,
+            "report_count": 19,
+            "total_report_count": 25,
+            "reputation": 559,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjM1OTY5NzM0",
+            "rank": 22,
+            "report_count": 13,
+            "total_report_count": 20,
+            "reputation": 558,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "Mw",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNTA4NA==",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Researcher writes great reports and finds needles in haystacks. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yOTk0",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2019-07-31T19:11:58.307Z",
+              "created_at": "2020-08-24T22:44:54.715Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNTA3Nw==",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Extremely detailed report that explained the issue very thoroughly, quick to respond and work with us. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yOTg3",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2019-07-30T17:50:53.939Z",
+              "created_at": "2020-08-24T22:44:54.653Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMzczNg==",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "This hacker did an amazing job with getting back to us and clarifying what he found.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xNjQ2",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2018-07-02T07:28:32.679Z",
+              "created_at": "2020-08-24T22:44:13.886Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE4NzY4",
+      "signal": 6.883495145631068,
+      "signal_percentile": 49,
+      "impact": 17.107843137254903,
+      "impact_percentile": 68,
+      "reputation": 2416,
+      "rank": 15
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQxMjUy",
+      "signal": 6.931818181818182,
+      "signal_percentile": 66,
+      "impact": 19.30722891566265,
+      "impact_percentile": 78,
+      "reputation": 4432,
+      "rank": 53
+    }
+  },
+  "todayisnew": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTg0MjY=",
+    "username": "todayisnew",
+    "name": "Eric",
+    "created_at": "2015-03-04T21:12:16.741Z",
+    "location": "Canada",
+    "website": "https://ethihack.solutions/",
+    "bio": "please vote it matters, and you matter :)  - www.rockthevote.org ",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "todayisnew",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "todayisnew",
+    "twitter_handle": "Codecancare",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": true,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 5.925112511251125,
+    "signal_percentile": 83,
+    "impact": 16.502826814353295,
+    "impact_percentile": 81,
+    "reputation": 218072,
+    "rank": 1,
+    "resolved_report_count": 9286,
+    "thanks_items_total_count": 1061,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy80NDU2",
+            "public_feedback": "Good example of a finding possible through public asset reconnaissance. Thank you",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzI1MTg4",
+              "name": "Ping Identity",
+              "handle": "pingidentity"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy80NDAy",
+            "public_feedback": "Excellent technical report.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQ1Njc1",
+              "name": "Faraday, Inc.",
+              "handle": "faraday_inc"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy8zODQ0",
+            "public_feedback": "Very detailed report and quick communication. Thanks again!",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQzODI1",
+              "name": "Exodus",
+              "handle": "exodus"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy8xOTIw",
+            "public_feedback": "Well written reports and super nice!",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzc4ODM=",
+              "name": "Hyatt Hotels",
+              "handle": "hyatt"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGNSUyRjIwMjUtMTEtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDMtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+      "length": 5,
+      "start_date": "2025-11-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-02-11T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2025-03-05T08:58:31.844Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzYy",
+            "name": "Hack the World Badass",
+            "image_path": "/assets/users/badges/badass_gold-c3c07a0d17314eb63667506b6b1c07f0bdcb3b229ec4d82d1d490e6c4e82b462.png"
+          }
+        },
+        {
+          "awarded_at": "2024-08-07T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc3NQ==",
+            "name": "H1-702 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/79dn0vfaqn9kjedxuvnorb5bodyv"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTM0ODk0ODUx",
+            "rank": 1,
+            "report_count": 675,
+            "total_report_count": 790,
+            "reputation": 15274,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTQxMDA=",
+            "rank": 4,
+            "report_count": 721,
+            "total_report_count": 1166,
+            "reputation": 14817,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTkyNTA=",
+            "rank": 4,
+            "report_count": 464,
+            "total_report_count": 1451,
+            "reputation": 10199,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNTczOTMxOTQ=",
+            "rank": 2,
+            "report_count": 251,
+            "total_report_count": 389,
+            "reputation": 7301,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjgzNjY2NzA=",
+            "rank": 6,
+            "report_count": 252,
+            "total_report_count": 456,
+            "reputation": 4778,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEyMg==",
+              "name": "AT&T",
+              "handle": "att",
+              "state": "public_mode",
+              "url": "https://hackerone.com/att"
+            }
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vODQ2ODc=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "It's great working with them.  Very detailed reports and always clear and concise in communications. ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yMTg0NQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-07-02T18:02:12.323Z",
+              "created_at": "2024-07-02T18:02:12.340Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjQ3Mjg=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Very detailed reports with PoC, a kind and helpful man ",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xMDUzMQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2022-04-15T11:43:54.039Z",
+              "created_at": "2022-04-15T11:43:54.055Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTA5OTM=",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "Great feedback, helpful communications, and a friendly voice to help guide us to better code!  Thank you!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS82MDM5",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2021-04-14T03:02:58.083Z",
+              "created_at": "2021-04-14T03:02:58.103Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTA0Mzg=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Eric's diligence, thoroughness and persistence is greatly appreciated!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS81ODYw",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2021-03-21T20:03:04.305Z",
+              "created_at": "2021-03-21T20:03:04.317Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMTAxMDg=",
+            "key": "hacker_review_legacy",
+            "rating": 4,
+            "public_comment": "Appreciate the professional approach to reporting the bug and then working with us to replicate it.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS81NzUz",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2021-03-08T06:48:49.425Z",
+              "created_at": "2021-03-08T06:48:49.433Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE3ODI5",
+      "signal": 5.421052631578948,
+      "signal_percentile": 43,
+      "impact": 20.967741935483872,
+      "impact_percentile": 79,
+      "reputation": 933,
+      "rank": 84
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDM5NTU4",
+      "signal": 6.3,
+      "signal_percentile": 61,
+      "impact": 16.98,
+      "impact_percentile": 70,
+      "reputation": 6450,
+      "rank": 33
+    }
+  },
+  "try_to_hack": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4MDk=",
+    "username": "try_to_hack",
+    "name": "Santiago Lopez",
+    "created_at": "2015-05-12T01:04:40.145Z",
+    "location": "Argentina",
+    "website": "https://santimillionaire.com/club",
+    "bio": "World’s First $1 Million Dollar Hacker",
+    "intro": "Santiago is a young entrepreneur and computer security expert who became a millionaire at the age of 19. Inspired by his own experience and success, teaches others the best job in the world and change lives.",
+    "profile_activated": true,
+    "bugcrowd_handle": "MrHack",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "santi-lopez",
+    "twitter_handle": "santi_lopezz99",
+    "cleared": false,
+    "verified": true,
+    "open_for_employment": true,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.0011487650775415,
+    "signal_percentile": 83,
+    "impact": 16.046730930427493,
+    "impact_percentile": 81,
+    "reputation": 109224,
+    "rank": 4,
+    "resolved_report_count": 4034,
+    "thanks_items_total_count": 42,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMiUyRjIwMjYtMDItMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDMtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+      "length": 2,
+      "start_date": "2026-02-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2024-04-19T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc1Ng==",
+            "name": "H1-65 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/p0gtanoqw19r1xvam7sywlfezzl6"
+          }
+        },
+        {
+          "awarded_at": "2023-12-14T14:43:56.330Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzIx",
+            "name": "Diversity",
+            "image_path": "/assets/users/badges/diversity_silver-294945c804c9fe3733032c8442ca45f5d92dc2b970afef91dff6daeed401e7ed.png"
+          }
+        },
+        {
+          "awarded_at": "2023-09-15T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzczMA==",
+            "name": "H1-813 2023 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/kjtgzkc00w1hk5493zffsnsgmsdq"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTQzMDk=",
+            "rank": 1,
+            "report_count": 3556,
+            "total_report_count": 6422,
+            "reputation": 84218,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTgyMzMyOTEx",
+            "rank": 1,
+            "report_count": 394,
+            "total_report_count": 722,
+            "reputation": 11315,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjA4MDM=",
+            "rank": 9,
+            "report_count": 278,
+            "total_report_count": 423,
+            "reputation": 5437,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNzA1MDYzNg==",
+            "rank": 3,
+            "report_count": 212,
+            "total_report_count": 298,
+            "reputation": 3945,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTI4Nzg5MTg=",
+            "rank": 3,
+            "report_count": 175,
+            "total_report_count": 221,
+            "reputation": 3876,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": null,
+        "hasNextPage": false
+      },
+      "edges": []
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE3ODU4",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 16.4,
+      "impact_percentile": 66,
+      "reputation": 571,
+      "rank": 176
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDM5NjA2",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 15.479452054794521,
+      "impact_percentile": 66,
+      "reputation": 1459,
+      "rank": 265
+    }
+  },
+  "nagli": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODU2OTc1",
+    "username": "nagli",
+    "name": "Gal Nagli",
+    "created_at": "2019-12-13T17:58:47.144Z",
+    "location": "",
+    "website": "https://www.galnagli.com",
+    "bio": "Hacker",
+    "intro": "## H1 Stats\r\n* Top 5 Hacker on HackerOne's All Time Leaderboard\r\n* H1 Ambassador\r\n* 6x Top 5 finishes on H1 LHE's, 2x Exterminator Award (Most Critical Bug of the Event), 1x Eradicator Award (Most Critical Bug found On-Site)\r\n\r\n",
+    "profile_activated": true,
+    "bugcrowd_handle": "nagli",
+    "hack_the_box_handle": "",
+    "github_handle": "naglinagli",
+    "gitlab_handle": "",
+    "linkedin_handle": "galnagli",
+    "twitter_handle": "galnagli",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": false,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.800801373783629,
+    "signal_percentile": 88,
+    "impact": 19.462835727670207,
+    "impact_percentile": 88,
+    "reputation": 47684,
+    "rank": 7,
+    "resolved_report_count": 1586,
+    "thanks_items_total_count": 501,
+    "public_reviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy84NjM1",
+            "public_feedback": "I'm HackerOne's CISO and Chief Hacking Officer. Thank you for sending in this report. I like it because it's a valid security concern, but very very different from the typical report. Thanks for providing such a breadth of coverage, pleasure having you on the program.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEz",
+              "name": "HackerOne",
+              "handle": "security"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy82Mzk4",
+            "public_feedback": "A helpful report with a deep multidomain report that helped us to solve all the problems in a row. Really a great professional. ",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUzMDIw",
+              "name": "Zooplus",
+              "handle": "zooplus"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy81OTcx",
+            "public_feedback": "Outstanding reports that help us to solve the findings really fast and verify the problems with few steps.",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUzMDIw",
+              "name": "Zooplus",
+              "handle": "zooplus"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy81ODk5",
+            "public_feedback": "Helpful even when you ask for help with a report and he is on vacation :)",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUzMDIw",
+              "name": "Zooplus",
+              "handle": "zooplus"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0hhY2tlclJldmlldy81ODQz",
+            "public_feedback": "Accessible and fast and professional communication",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUzMDIw",
+              "name": "Zooplus",
+              "handle": "zooplus"
+            }
+          }
+        }
+      ]
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMyUyRjIwMjYtMDEtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDMtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+      "length": 3,
+      "start_date": "2026-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-09-25T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzgxMw==",
+            "name": "H1-0131 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rqsclfa9fojzovjcl4ia48asi9in"
+          }
+        },
+        {
+          "awarded_at": "2024-08-07T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc3NQ==",
+            "name": "H1-702 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/79dn0vfaqn9kjedxuvnorb5bodyv"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTQ1NTU3OTQ2",
+            "rank": 1,
+            "report_count": 49,
+            "total_report_count": 72,
+            "reputation": 1400,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNTczMTA1NTA=",
+            "rank": 37,
+            "report_count": 208,
+            "total_report_count": 236,
+            "reputation": 1286,
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTYwNjQ=",
+              "name": "U.S. Dept Of Defense",
+              "handle": "deptofdefense",
+              "state": "public_mode",
+              "url": "https://hackerone.com/deptofdefense"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTQyOTU1NTQ5",
+            "rank": 24,
+            "report_count": 7,
+            "total_report_count": 60,
+            "reputation": 1212,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTMzOTQ0NDI0",
+            "rank": 4,
+            "report_count": 41,
+            "total_report_count": 56,
+            "reputation": 1113,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjA2MzQzNjg0",
+            "rank": 17,
+            "report_count": 66,
+            "total_report_count": 223,
+            "reputation": 924,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "NQ",
+        "hasNextPage": true
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjM4NjIz",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Thanks for your efforts.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NTQ3Mg==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2026-01-07T02:12:47.276Z",
+              "created_at": "2026-01-07T02:12:47.317Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNzMyNTE=",
+            "key": "hacker_review_legacy",
+            "rating": 1,
+            "public_comment": "Nagli submitted the highest quality report. It was clear and concise; provided very detailed instructions and artifacts for our dev team to follow. His responsiveness allowed our dev team to close the vuln almost instantly. We look forward to more quality reports from Nagli",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8yMDUyMQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-06-10T20:46:42.924Z",
+              "created_at": "2024-06-10T20:46:42.948Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vNjgzNDg=",
+            "key": "hacker_review_legacy",
+            "rating": 4,
+            "public_comment": "I'm HackerOne's CISO and Chief Hacking Officer. Thank you for sending in this report. I like it because it's a valid security concern, but very very different from the typical report. Thanks for providing such a breadth of coverage, pleasure having you on the program.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xOTc1Ng==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2024-05-09T04:40:32.530Z",
+              "created_at": "2024-05-09T04:40:32.538Z",
+              "team": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEz",
+                "name": "HackerOne"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMzAwMzA=",
+            "key": "hacker_review_legacy",
+            "rating": 4,
+            "public_comment": "Great work!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xMTg5MQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2022-10-05T21:18:16.100Z",
+              "created_at": "2022-10-05T21:18:16.124Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjUxMjg=",
+            "key": "hacker_review_legacy",
+            "rating": 3,
+            "public_comment": "Amazing hacker with amazing report! Thanks again Nagli!",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS8xMDY2Mw==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2022-05-04T09:36:20.866Z",
+              "created_at": "2022-05-04T09:36:20.887Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE5OTIw",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 18.75,
+      "impact_percentile": 74,
+      "reputation": 248,
+      "rank": 497
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDQzNTA2",
+      "signal": 6.510204081632653,
+      "signal_percentile": 62,
+      "impact": 16.7,
+      "impact_percentile": 70,
+      "reputation": 1519,
+      "rank": 259
+    }
+  },
+  "fransrosen": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTYzNA==",
+    "username": "fransrosen",
+    "name": "Frans Rosén",
+    "created_at": "2013-11-20T21:15:29.771Z",
+    "location": "Sweden",
+    "website": "https://fransrosen.com",
+    "bio": "I do not advertise doing hacking services, do not trust the ones telling you I do.",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": null,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.709345794392523,
+    "signal_percentile": 87,
+    "impact": 25.585585585585587,
+    "impact_percentile": 95,
+    "reputation": 42698,
+    "rank": 8,
+    "resolved_report_count": 890,
+    "thanks_items_total_count": 212,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMTclMkYyMDI0LTExLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 17,
+      "start_date": "2024-11-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2024-09-25T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzgyNA==",
+            "name": "H1-0131 2024 Exterminator",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/z8gds68by0xmomk15wajcpy2kbku"
+          }
+        },
+        {
+          "awarded_at": "2024-09-25T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzgxMw==",
+            "name": "H1-0131 2024 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/rqsclfa9fojzovjcl4ia48asi9in"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 1,
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1RlYW1NZW1iZXIvNDMzNjY=",
+            "team": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjI2NDk=",
+              "name": "Frans Visits Vegas",
+              "handle": "fransvisitsvegas",
+              "state": "public_mode",
+              "url": "https://hackerone.com/fransvisitsvegas"
+            }
+          }
+        }
+      ]
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjQ2NDcwMzY=",
+            "rank": 3,
+            "report_count": 8,
+            "total_report_count": 22,
+            "reputation": 7269,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTkyODUzMTY2",
+            "rank": 4,
+            "report_count": 53,
+            "total_report_count": 55,
+            "reputation": 4116,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzcxMA==",
+            "rank": 20,
+            "report_count": 83,
+            "total_report_count": 89,
+            "reputation": 2838,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTEyMzgxNzU=",
+            "rank": 9,
+            "report_count": 41,
+            "total_report_count": 45,
+            "reputation": 1520,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTg5NTc=",
+            "rank": 18,
+            "report_count": 52,
+            "total_report_count": 173,
+            "reputation": 1484,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": "Mg",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjMyNTU0",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "'fransrosen' demonstrates creative thinking.  Recently they bypasses a critical fix on a report from another researcher.  This was amazing.  'fransrosen' has showed that even in an established application, great findings are still there when talent and determination are brought to the task.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80NDUwMQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-12-04T21:48:40.902Z",
+              "created_at": "2025-12-04T21:48:40.923Z",
+              "team": null
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ0l0ZW0vMjA5MjUy",
+            "key": "hacker_review_legacy",
+            "rating": 2,
+            "public_comment": "We want to recognize fransrosen's outstanding ability to discover and report complex, high-impact security issues that have significantly strengthened our security posture. Their exceptional talent for identifying sophisticated attack chains is impressive and rare. Through deep technical expertise and a methodical approach, they consistently uncover impactful, yet nuanced, security flaws that others might miss, particularly in areas involving complex business logic and system interconnectivity. With all these skills and findings, they remain humble and approachable by all.",
+            "survey_rating": {
+              "id": "Z2lkOi8vaGFja2Vyb25lL1N1cnZleVJhdGluZ3M6OkhhY2tlclJldmlld1N1cnZleS80MDQ1MQ==",
+              "type": "hackerReviewSurvey",
+              "completed_at": "2025-09-12T13:41:16.091Z",
+              "created_at": "2025-09-12T13:41:16.102Z",
+              "team": null
+            }
+          }
+        }
+      ]
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE3NjY4",
+      "signal": null,
+      "signal_percentile": null,
+      "impact": 22.5,
+      "impact_percentile": 83,
+      "reputation": 483,
+      "rank": 217
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDM5MjQ2",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 27.15909090909091,
+      "impact_percentile": 92,
+      "reputation": 3141,
+      "rank": 90
+    }
+  },
+  "zseano": {
+    "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzczODE=",
+    "username": "zseano",
+    "name": "Sean",
+    "created_at": "2015-07-29T00:06:48.514Z",
+    "location": "UK",
+    "website": "https://www.twitter.com/zseano",
+    "bio": "ex-Amazon bug bounty hunter",
+    "intro": "",
+    "profile_activated": true,
+    "bugcrowd_handle": "zseano",
+    "hack_the_box_handle": "",
+    "github_handle": "",
+    "gitlab_handle": "",
+    "linkedin_handle": "",
+    "twitter_handle": "zseano",
+    "cleared": true,
+    "verified": true,
+    "open_for_employment": true,
+    "mark_as_company_on_leaderboards": false,
+    "signal": 6.673444976076555,
+    "signal_percentile": 87,
+    "impact": 20.381882770870337,
+    "impact_percentile": 89,
+    "reputation": 41900,
+    "rank": 9,
+    "resolved_report_count": 1041,
+    "thanks_items_total_count": 80,
+    "public_reviews": {
+      "edges": []
+    },
+    "user_streak": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMzklMkYyMDIzLTAxLTAxKzAwJTNBMDAlM0EwMCtVVEMlMkYyMDI2LTAzLTAxKzAwJTNBMDAlM0EwMCtVVEM=",
+      "length": 39,
+      "start_date": "2023-01-01T00:00:00.000Z",
+      "end_date": "2026-03-01T00:00:00.000Z"
+    },
+    "hacker_skills": {
+      "nodes": []
+    },
+    "pentester_profile": null,
+    "badges": {
+      "edges": [
+        {
+          "awarded_at": "2026-03-16T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkzMA==",
+            "name": "H1-6102 2025 Participant",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/t73my2xp058o64dsdrcenfhcm480"
+          }
+        },
+        {
+          "awarded_at": "2025-10-29T00:00:00.000Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+            "name": "Milestone-program-Level-1",
+            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo"
+          }
+        },
+        {
+          "awarded_at": "2025-06-17T16:16:40.369Z",
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU1Nw==",
+            "name": "A3: Sensitive Data Exposure",
+            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/iwkur07x0hurd08ne2k75ot07wdm?response-content-disposition=inline%3B%20filename%3D%22owasp-A3.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A3.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQT6NVNKKG%2F20260402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260402T110938Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHTVUCOAcR7rN0ySVJpkTWBnakEPzNfQ9g9XGMF9qD2HAiAIagWUxQe3Y7CqLvFLY8K8WJHSYUhwPAzpSrBLQRwpXyqyBQhsEAMaDDAxMzYxOTI3NDg0OSIM0Sgi%2FrlBwrUsR1rHKo8F6fhF2zMICOhYuOWlrffIiLYt2NzUuSXra1J8ZQhLPFx9kl1voSl3GmLSw5A9s3xhRNqKQUlNgnQm%2Fs6mr1g8grtSaIwhSylWogKUZGgc40i90K%2BoFysw9x1WOETkhEP8tjKc6r23qnUATIIjLfuXtS4yZWJkdgG%2BBtjnQoijaazJOjJIVMzsHq2RF2RBDkTeRMqUyHnECt1x8visVtKIZ1uVO7tmIYPrFiVArLNDeQ%2BH9gim4KSjQ2DQ3cbUPhDFsOlTwvq73p%2BIA172FqVjdoi1hYUQ%2BE3FegrVl8MvAzhujhe13B8Zot3Ni7d%2FVbblwo0ag5EDH%2FyGZgFhqgxf4c1hR4ugP%2Fi0lvONK6PT%2FxwHa%2Bf8RGLjrXY3FxjMNgUzHkGqeMPLOCQP2KPV0CMWRgoLKPArKH4iS5BIaAm1dpgLeSCUAPbXTAd4YMmQytaFmzJk3k%2FwxH6YPA1qpfSbQiasq%2BnSNv6XKXWaTJiYQIO5%2BWGNMyxcm2Cstlfsele1uO0FzXdiuJk5I0mSKynJOOmOXFsYaFIYsY%2BBa3zfBL1bAqnQ%2FOG0VnDIi6iZ9FfU3soAc43HGhex8Hxn9JmjaIgXY01y7sWzyABCwaZZnAj%2FA0p2rrom9VecJAPHrCSCKDEp%2BDUGKx%2BeZkY%2BcWz8CIsys%2B%2FiGJXfeQrpzoNiJMa0%2F%2FMmdkZGJk9FJuB4DEuR2siPoaY64YVLOQhrlgV7FLQkNNuEu5RnxS2C50IWJfdGOYdkq49Oy3UHBgRdOGNyoLr1AcwUjx1PuYbvV%2Bo9SYV6hkfTzJpeo0PTt%2FpaiqJPwEz%2FJXCm2QH6ZbPqzq3WmUrUHP3dhW6DsMQH0mZXUEOLESQ%2FAWxvt%2BpRg%2BtaaDDSiLnOBjqyARom8fXZglYIMWZd25FBVgctDuYipO3mxjzDZgCjkJBDWfIU7deW%2BLRL4wjWvWkoJ1qgyKYNIuCDLbAjaQweY9fdOg3YZEfV44%2BxIwuxks1byHY2o9vEOlvxwLdgcN%2FswmwHH4RIfXYFcSKKvgwZfJWdORCGr9oQV32zSpKpm4PyNKsmpCUDZI4t6TAXi6NtBOgmtfC1GL0xW%2FHHzvNr1wx2LF4WAqvUZJgskAZSHg1SzP4%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=83bcf04a977c03e1bfc99f7e24fe4b407439dd82891822cb63db1d43eb4a6009"
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "total_count": 0,
+      "edges": []
+    },
+    "thanks_items": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzczNzI1NDg=",
+            "rank": 1,
+            "report_count": 716,
+            "total_report_count": 834,
+            "reputation": 26956,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjg0ODYxMDkz",
+            "rank": 1,
+            "report_count": 58,
+            "total_report_count": 61,
+            "reputation": 1723,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTc3NzMxMjA2",
+            "rank": 1,
+            "report_count": 40,
+            "total_report_count": 41,
+            "reputation": 1456,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjI0MzMxMDY1",
+            "rank": 2,
+            "report_count": 23,
+            "total_report_count": 47,
+            "reputation": 1014,
+            "team": null
+          }
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjAwNTA=",
+            "rank": 1,
+            "report_count": 37,
+            "total_report_count": 38,
+            "reputation": 969,
+            "team": null
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "pageInfo": {
+        "endCursor": null,
+        "hasNextPage": false
+      },
+      "edges": []
+    },
+    "stats90": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDE3ODg2",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 25.0,
+      "impact_percentile": 86,
+      "reputation": 2152,
+      "rank": 18
+    },
+    "statsYear": {
+      "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc4MDM5NjU2",
+      "signal": 7.0,
+      "signal_percentile": 99,
+      "impact": 21.216216216216218,
+      "impact_percentile": 82,
+      "reputation": 8305,
+      "rank": 21
+    }
+  }
+}

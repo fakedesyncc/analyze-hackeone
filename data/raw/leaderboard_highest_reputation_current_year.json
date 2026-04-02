@@ -1,0 +1,902 @@
+[
+  {
+    "username": "m0chan",
+    "rank": 1,
+    "previous_rank": 1,
+    "reputation": 9248,
+    "signal": 6.7934990439770555,
+    "impact": 15.127226463104325,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjQ3OTI3"
+  },
+  {
+    "username": "godiego",
+    "rank": 2,
+    "previous_rank": 2,
+    "reputation": 6932,
+    "signal": 6.776951672862453,
+    "impact": 18.859315589353614,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMwMTIy"
+  },
+  {
+    "username": "d0xing",
+    "rank": 3,
+    "previous_rank": 3,
+    "reputation": 6431,
+    "signal": 6.960132890365449,
+    "impact": 15.14760147601476,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTY1NTA="
+  },
+  {
+    "username": "holybugx",
+    "rank": 4,
+    "previous_rank": 5,
+    "reputation": 3449,
+    "signal": 6.933701657458563,
+    "impact": 14.710982658959537,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMzMTUzNQ=="
+  },
+  {
+    "username": "green-jam",
+    "rank": 5,
+    "previous_rank": 22,
+    "reputation": 3435,
+    "signal": 7.0,
+    "impact": 15.206896551724137,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE3ODkzOA=="
+  },
+  {
+    "username": "badcracker",
+    "rank": 6,
+    "previous_rank": 25,
+    "reputation": 3130,
+    "signal": 7.0,
+    "impact": 15.69767441860465,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzE0MDE1"
+  },
+  {
+    "username": "arielrachamim",
+    "rank": 7,
+    "previous_rank": 4,
+    "reputation": 3088,
+    "signal": 6.474226804123711,
+    "impact": 9.36,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQyMTg2MA=="
+  },
+  {
+    "username": "arthuraires",
+    "rank": 8,
+    "previous_rank": 33,
+    "reputation": 2981,
+    "signal": 7.0,
+    "impact": 26.904761904761905,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM3OTc3OQ=="
+  },
+  {
+    "username": "jayesh25",
+    "rank": 9,
+    "previous_rank": 11,
+    "reputation": 2960,
+    "signal": 7.0,
+    "impact": 20.481927710843372,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODk4ODYw"
+  },
+  {
+    "username": "n0xi0us",
+    "rank": 10,
+    "previous_rank": 19,
+    "reputation": 2890,
+    "signal": 7.0,
+    "impact": 18.181818181818183,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTY5MzIyNQ=="
+  },
+  {
+    "username": "nishant57",
+    "rank": 11,
+    "previous_rank": null,
+    "reputation": 2850,
+    "signal": 7.0,
+    "impact": 18.854166666666668,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTg2ODUzNA=="
+  },
+  {
+    "username": "yash_005",
+    "rank": 12,
+    "previous_rank": 9,
+    "reputation": 2655,
+    "signal": 7.0,
+    "impact": 19.285714285714285,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI4MDIwMA=="
+  },
+  {
+    "username": "supermancyber",
+    "rank": 13,
+    "previous_rank": 10,
+    "reputation": 2615,
+    "signal": 7.0,
+    "impact": 17.289719626168225,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg0NTYzOA=="
+  },
+  {
+    "username": "teslatheg0d",
+    "rank": 14,
+    "previous_rank": 6,
+    "reputation": 2600,
+    "signal": 7.0,
+    "impact": 29.375,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODQ4OTY3"
+  },
+  {
+    "username": "mister_mime",
+    "rank": 15,
+    "previous_rank": null,
+    "reputation": 2423,
+    "signal": 6.883495145631068,
+    "impact": 17.107843137254903,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjgyMDkx"
+  },
+  {
+    "username": "jameelalhaneny",
+    "rank": 16,
+    "previous_rank": 43,
+    "reputation": 2385,
+    "signal": 5.909090909090909,
+    "impact": 15.792079207920793,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjcyNTM1OQ=="
+  },
+  {
+    "username": "archyxsec",
+    "rank": 17,
+    "previous_rank": 20,
+    "reputation": 2184,
+    "signal": 6.82089552238806,
+    "impact": 24.035087719298247,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODQ3NjA4"
+  },
+  {
+    "username": "zseano",
+    "rank": 18,
+    "previous_rank": 14,
+    "reputation": 2152,
+    "signal": 7.0,
+    "impact": 25.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzczODE="
+  },
+  {
+    "username": "hacktus",
+    "rank": 19,
+    "previous_rank": 37,
+    "reputation": 2122,
+    "signal": 7.0,
+    "impact": 21.18421052631579,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM1OTg2"
+  },
+  {
+    "username": "orion1x1",
+    "rank": 20,
+    "previous_rank": 23,
+    "reputation": 2118,
+    "signal": 7.0,
+    "impact": 18.956043956043956,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTIxNTAxOA=="
+  },
+  {
+    "username": "yumi",
+    "rank": 21,
+    "previous_rank": 32,
+    "reputation": 2091,
+    "signal": 7.0,
+    "impact": 16.079545454545453,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM5NDA4"
+  },
+  {
+    "username": "lamscun",
+    "rank": 22,
+    "previous_rank": 24,
+    "reputation": 2080,
+    "signal": 5.588235294117647,
+    "impact": 18.125,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTUzNDc0"
+  },
+  {
+    "username": "irwanjugabro",
+    "rank": 23,
+    "previous_rank": 30,
+    "reputation": 1942,
+    "signal": 6.166666666666667,
+    "impact": 21.567164179104477,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTgzNjU3"
+  },
+  {
+    "username": "rzx007x",
+    "rank": 24,
+    "previous_rank": null,
+    "reputation": 1852,
+    "signal": 7.0,
+    "impact": 34.09090909090909,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODIyMjg4"
+  },
+  {
+    "username": "thaivu",
+    "rank": 25,
+    "previous_rank": 8,
+    "reputation": 1810,
+    "signal": 7.0,
+    "impact": 17.84313725490196,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzk1MzQ4"
+  },
+  {
+    "username": "zere",
+    "rank": 26,
+    "previous_rank": 26,
+    "reputation": 1753,
+    "signal": 6.8125,
+    "impact": 21.048387096774192,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTkwODk2OA=="
+  },
+  {
+    "username": "ryotak",
+    "rank": 27,
+    "previous_rank": null,
+    "reputation": 1712,
+    "signal": 7.0,
+    "impact": 36.80555555555556,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTY5NDU2"
+  },
+  {
+    "username": "ganeshbagaria",
+    "rank": 28,
+    "previous_rank": 52,
+    "reputation": 1700,
+    "signal": 7.0,
+    "impact": 25.555555555555557,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQxMzExMw=="
+  },
+  {
+    "username": "aawartkc",
+    "rank": 29,
+    "previous_rank": null,
+    "reputation": 1696,
+    "signal": 6.850622406639004,
+    "impact": null,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzM0NzU5MA=="
+  },
+  {
+    "username": "prl",
+    "rank": 30,
+    "previous_rank": 76,
+    "reputation": 1633,
+    "signal": 6.764705882352941,
+    "impact": 25.980392156862745,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjc5ODIw"
+  },
+  {
+    "username": "buggedout",
+    "rank": 31,
+    "previous_rank": null,
+    "reputation": 1579,
+    "signal": 6.020408163265306,
+    "impact": 21.666666666666668,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjY5NjY4NQ=="
+  },
+  {
+    "username": "r3aper__",
+    "rank": 32,
+    "previous_rank": 39,
+    "reputation": 1477,
+    "signal": 5.285714285714286,
+    "impact": 31.666666666666668,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjc4NTg5OA=="
+  },
+  {
+    "username": "x0abcd_",
+    "rank": 33,
+    "previous_rank": null,
+    "reputation": 1463,
+    "signal": 6.320754716981132,
+    "impact": 23.645833333333332,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODIyMTkz"
+  },
+  {
+    "username": "marvelmaniac",
+    "rank": 34,
+    "previous_rank": null,
+    "reputation": 1433,
+    "signal": 7.0,
+    "impact": 17.395833333333332,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM2MTg5MQ=="
+  },
+  {
+    "username": "nayefhamouda",
+    "rank": 35,
+    "previous_rank": 60,
+    "reputation": 1429,
+    "signal": 5.344827586206897,
+    "impact": 16.5,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE0MTMyNw=="
+  },
+  {
+    "username": "khaled_hammad",
+    "rank": 36,
+    "previous_rank": 70,
+    "reputation": 1427,
+    "signal": 6.0,
+    "impact": 19.03846153846154,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMxNTMw"
+  },
+  {
+    "username": "almuntadhar0x01",
+    "rank": 37,
+    "previous_rank": 72,
+    "reputation": 1426,
+    "signal": 7.0,
+    "impact": 19.84375,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzU5MDY4MA=="
+  },
+  {
+    "username": "zonduu",
+    "rank": 38,
+    "previous_rank": 54,
+    "reputation": 1413,
+    "signal": 6.389830508474576,
+    "impact": 21.428571428571427,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTk1MDg3"
+  },
+  {
+    "username": "kevin_mizu",
+    "rank": 39,
+    "previous_rank": null,
+    "reputation": 1410,
+    "signal": 7.0,
+    "impact": 32.42424242424242,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE5ODUzOQ=="
+  },
+  {
+    "username": "bombon",
+    "rank": 40,
+    "previous_rank": 94,
+    "reputation": 1359,
+    "signal": 7.0,
+    "impact": 28.91891891891892,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMyMDM2Nw=="
+  },
+  {
+    "username": "ro0od",
+    "rank": 41,
+    "previous_rank": null,
+    "reputation": 1358,
+    "signal": 7.0,
+    "impact": 17.5,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM5Mjg2NQ=="
+  },
+  {
+    "username": "mrhavit",
+    "rank": 42,
+    "previous_rank": 58,
+    "reputation": 1321,
+    "signal": 7.0,
+    "impact": 36.61290322580645,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQ4NDQ2OA=="
+  },
+  {
+    "username": "0xold",
+    "rank": 43,
+    "previous_rank": 28,
+    "reputation": 1307,
+    "signal": 7.0,
+    "impact": 25.92105263157895,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU0NTUyNw=="
+  },
+  {
+    "username": "ali",
+    "rank": 44,
+    "previous_rank": 16,
+    "reputation": 1299,
+    "signal": 6.414634146341464,
+    "impact": 25.897435897435898,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI1OTM3"
+  },
+  {
+    "username": "ltidi",
+    "rank": 45,
+    "previous_rank": 17,
+    "reputation": 1296,
+    "signal": 7.0,
+    "impact": 18.14814814814815,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTM0NjEy"
+  },
+  {
+    "username": "bughuntar",
+    "rank": 45,
+    "previous_rank": 99,
+    "reputation": 1296,
+    "signal": 6.357142857142857,
+    "impact": 16.01851851851852,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjMwMjIyMA=="
+  },
+  {
+    "username": "diogourupes",
+    "rank": 47,
+    "previous_rank": 63,
+    "reputation": 1282,
+    "signal": 6.764705882352941,
+    "impact": 16.85185185185185,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDA4MTU4"
+  },
+  {
+    "username": "naaash",
+    "rank": 48,
+    "previous_rank": 46,
+    "reputation": 1227,
+    "signal": 7.0,
+    "impact": 22.8,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTk3Nzg5"
+  },
+  {
+    "username": "g4mb4",
+    "rank": 49,
+    "previous_rank": null,
+    "reputation": 1223,
+    "signal": 7.0,
+    "impact": 16.341463414634145,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjk1MDIz"
+  },
+  {
+    "username": "mut3d",
+    "rank": 50,
+    "previous_rank": null,
+    "reputation": 1211,
+    "signal": 7.0,
+    "impact": 36.53846153846154,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzE1NDkwMw=="
+  },
+  {
+    "username": "0d_samii",
+    "rank": 51,
+    "previous_rank": 27,
+    "reputation": 1207,
+    "signal": 7.0,
+    "impact": 16.162790697674417,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkwMzE3MA=="
+  },
+  {
+    "username": "theeeclipse",
+    "rank": 52,
+    "previous_rank": 74,
+    "reputation": 1195,
+    "signal": 6.769230769230769,
+    "impact": 17.97872340425532,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjI0MzI0NQ=="
+  },
+  {
+    "username": "tushar6378",
+    "rank": 53,
+    "previous_rank": 48,
+    "reputation": 1193,
+    "signal": 7.0,
+    "impact": 19.545454545454547,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQ2NzE2MA=="
+  },
+  {
+    "username": "dgrindle",
+    "rank": 54,
+    "previous_rank": null,
+    "reputation": 1190,
+    "signal": 7.0,
+    "impact": 31.551724137931036,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjc0MDYx"
+  },
+  {
+    "username": "exec_iq",
+    "rank": 55,
+    "previous_rank": 68,
+    "reputation": 1176,
+    "signal": 6.1891891891891895,
+    "impact": 19.655172413793103,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjcxMTc4MQ=="
+  },
+  {
+    "username": "stealthcopter",
+    "rank": 56,
+    "previous_rank": null,
+    "reputation": 1167,
+    "signal": 7.0,
+    "impact": 26.666666666666668,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDc5MTQ1"
+  },
+  {
+    "username": "z0rs_",
+    "rank": 56,
+    "previous_rank": null,
+    "reputation": 1167,
+    "signal": 7.0,
+    "impact": 41.05263157894737,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM2Mjk2MQ=="
+  },
+  {
+    "username": "hx01",
+    "rank": 58,
+    "previous_rank": 57,
+    "reputation": 1117,
+    "signal": 7.0,
+    "impact": 22.714285714285715,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjY0MDE4"
+  },
+  {
+    "username": "mudassirsharief",
+    "rank": 59,
+    "previous_rank": null,
+    "reputation": 1113,
+    "signal": 7.0,
+    "impact": null,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI3NzM1Mg=="
+  },
+  {
+    "username": "hipotermia",
+    "rank": 60,
+    "previous_rank": 59,
+    "reputation": 1105,
+    "signal": 6.74468085106383,
+    "impact": 21.363636363636363,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzMwNTA0"
+  },
+  {
+    "username": "nhubaochau",
+    "rank": 61,
+    "previous_rank": null,
+    "reputation": 1102,
+    "signal": 7.0,
+    "impact": 25.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI2OTA0"
+  },
+  {
+    "username": "stephenbonf",
+    "rank": 62,
+    "previous_rank": null,
+    "reputation": 1091,
+    "signal": 7.0,
+    "impact": 16.70212765957447,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzQ4NzI1NQ=="
+  },
+  {
+    "username": "myst1cal",
+    "rank": 63,
+    "previous_rank": null,
+    "reputation": 1080,
+    "signal": 7.0,
+    "impact": 50.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTk1NTQ2Mg=="
+  },
+  {
+    "username": "proabiral",
+    "rank": 64,
+    "previous_rank": 40,
+    "reputation": 1074,
+    "signal": 7.0,
+    "impact": 15.961538461538462,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTAxMzE0"
+  },
+  {
+    "username": "vinnyvinoth",
+    "rank": 65,
+    "previous_rank": null,
+    "reputation": 1072,
+    "signal": 7.0,
+    "impact": 26.071428571428573,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzk0MDY="
+  },
+  {
+    "username": "inhibitor181",
+    "rank": 66,
+    "previous_rank": 93,
+    "reputation": 1056,
+    "signal": 7.0,
+    "impact": 29.285714285714285,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODgyNzY="
+  },
+  {
+    "username": "lemonoftroy",
+    "rank": 67,
+    "previous_rank": null,
+    "reputation": 1051,
+    "signal": 7.0,
+    "impact": 27.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzg1ODA3"
+  },
+  {
+    "username": "comwrg",
+    "rank": 68,
+    "previous_rank": 44,
+    "reputation": 1050,
+    "signal": 7.0,
+    "impact": 18.80952380952381,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI3MTA5NA=="
+  },
+  {
+    "username": "crashseeker",
+    "rank": 69,
+    "previous_rank": null,
+    "reputation": 1047,
+    "signal": 7.0,
+    "impact": 22.083333333333332,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0MTk4NQ=="
+  },
+  {
+    "username": "theokeen",
+    "rank": 70,
+    "previous_rank": 56,
+    "reputation": 1028,
+    "signal": 4.962264150943396,
+    "impact": 15.3125,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzE2NTQx"
+  },
+  {
+    "username": "savitar0x01",
+    "rank": 71,
+    "previous_rank": 89,
+    "reputation": 1025,
+    "signal": 6.72093023255814,
+    "impact": 24.333333333333332,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjI0Nzc1"
+  },
+  {
+    "username": "abdozakria117",
+    "rank": 72,
+    "previous_rank": null,
+    "reputation": 1002,
+    "signal": 7.0,
+    "impact": 15.681818181818182,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjMyNzY2NQ=="
+  },
+  {
+    "username": "poneglyph",
+    "rank": 73,
+    "previous_rank": null,
+    "reputation": 998,
+    "signal": 7.0,
+    "impact": 16.73913043478261,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE0MDM4Mg=="
+  },
+  {
+    "username": "mersa-v6",
+    "rank": 74,
+    "previous_rank": null,
+    "reputation": 994,
+    "signal": 7.0,
+    "impact": 18.55263157894737,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg1NDgzNA=="
+  },
+  {
+    "username": "archangel",
+    "rank": 75,
+    "previous_rank": 53,
+    "reputation": 992,
+    "signal": 7.0,
+    "impact": 20.64516129032258,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzg4MjMz"
+  },
+  {
+    "username": "pprab",
+    "rank": 76,
+    "previous_rank": null,
+    "reputation": 964,
+    "signal": 7.0,
+    "impact": 21.029411764705884,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzIxNzIz"
+  },
+  {
+    "username": "krevetk0",
+    "rank": 77,
+    "previous_rank": null,
+    "reputation": 960,
+    "signal": 7.0,
+    "impact": 39.5,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzc0Nzc="
+  },
+  {
+    "username": "jackds",
+    "rank": 78,
+    "previous_rank": null,
+    "reputation": 959,
+    "signal": 7.0,
+    "impact": 27.63157894736842,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjk3NQ=="
+  },
+  {
+    "username": "amsda",
+    "rank": 79,
+    "previous_rank": 49,
+    "reputation": 957,
+    "signal": 7.0,
+    "impact": 21.93548387096774,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQ0Njc="
+  },
+  {
+    "username": "worstwursts",
+    "rank": 80,
+    "previous_rank": null,
+    "reputation": 951,
+    "signal": 7.0,
+    "impact": 22.045454545454547,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzAzMzU5Mw=="
+  },
+  {
+    "username": "defyourtype",
+    "rank": 81,
+    "previous_rank": null,
+    "reputation": 943,
+    "signal": 7.0,
+    "impact": 15.851063829787234,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzEyODgyOA=="
+  },
+  {
+    "username": "w31rd0",
+    "rank": 82,
+    "previous_rank": null,
+    "reputation": 941,
+    "signal": 7.0,
+    "impact": 20.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTgxNDQ5"
+  },
+  {
+    "username": "joaxcar",
+    "rank": 83,
+    "previous_rank": null,
+    "reputation": 938,
+    "signal": 7.0,
+    "impact": 25.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMyMjIxMw=="
+  },
+  {
+    "username": "lu3ky-13",
+    "rank": 84,
+    "previous_rank": 82,
+    "reputation": 936,
+    "signal": 7.0,
+    "impact": 17.83783783783784,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTIwNDc2"
+  },
+  {
+    "username": "yukusawa18",
+    "rank": 85,
+    "previous_rank": 100,
+    "reputation": 934,
+    "signal": 7.0,
+    "impact": 25.925925925925927,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzUyMjQy"
+  },
+  {
+    "username": "todayisnew",
+    "rank": 86,
+    "previous_rank": 13,
+    "reputation": 933,
+    "signal": 5.421052631578948,
+    "impact": 20.967741935483872,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTg0MjY="
+  },
+  {
+    "username": "bau1u",
+    "rank": 86,
+    "previous_rank": null,
+    "reputation": 933,
+    "signal": 7.0,
+    "impact": 17.317073170731707,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyMDcxOQ=="
+  },
+  {
+    "username": "yxw21",
+    "rank": 88,
+    "previous_rank": 85,
+    "reputation": 931,
+    "signal": 7.0,
+    "impact": 19.142857142857142,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTUxMzY0"
+  },
+  {
+    "username": "samux",
+    "rank": 89,
+    "previous_rank": null,
+    "reputation": 930,
+    "signal": 7.0,
+    "impact": 18.08823529411765,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTM3NDU="
+  },
+  {
+    "username": "0xmoose",
+    "rank": 90,
+    "previous_rank": null,
+    "reputation": 921,
+    "signal": 7.0,
+    "impact": 17.22222222222222,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjQ2MDUyNQ=="
+  },
+  {
+    "username": "sicksec",
+    "rank": 91,
+    "previous_rank": null,
+    "reputation": 919,
+    "signal": 7.0,
+    "impact": 15.689655172413794,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjg5NDA4"
+  },
+  {
+    "username": "x_tooom",
+    "rank": 92,
+    "previous_rank": null,
+    "reputation": 910,
+    "signal": 6.5,
+    "impact": 15.0,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDEwNDgxMw=="
+  },
+  {
+    "username": "pwnedprincess",
+    "rank": 93,
+    "previous_rank": null,
+    "reputation": 909,
+    "signal": 7.0,
+    "impact": 27.307692307692307,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQzMTE5OA=="
+  },
+  {
+    "username": "0x88",
+    "rank": 94,
+    "previous_rank": null,
+    "reputation": 903,
+    "signal": 6.2,
+    "impact": 16.944444444444443,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjUwODkyMA=="
+  },
+  {
+    "username": "p4fg",
+    "rank": 94,
+    "previous_rank": 18,
+    "reputation": 903,
+    "signal": 7.0,
+    "impact": 19.838709677419356,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzc5Mjk1"
+  },
+  {
+    "username": "mikemyers",
+    "rank": 96,
+    "previous_rank": null,
+    "reputation": 901,
+    "signal": 7.0,
+    "impact": 33.80952380952381,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzYzNDUx"
+  },
+  {
+    "username": "infinitelogins",
+    "rank": 97,
+    "previous_rank": null,
+    "reputation": 897,
+    "signal": 7.0,
+    "impact": 32.94117647058823,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU0MzE0Mw=="
+  },
+  {
+    "username": "w2w",
+    "rank": 98,
+    "previous_rank": 79,
+    "reputation": 896,
+    "signal": 7.0,
+    "impact": 29.583333333333332,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM0OTQy"
+  },
+  {
+    "username": "0xdln",
+    "rank": 98,
+    "previous_rank": 42,
+    "reputation": 896,
+    "signal": 6.666666666666667,
+    "impact": 19.838709677419356,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM3MzU5Ng=="
+  },
+  {
+    "username": "arong3117",
+    "rank": 100,
+    "previous_rank": null,
+    "reputation": 892,
+    "signal": 7.0,
+    "impact": 12.954545454545455,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjYwNDI5NQ=="
+  }
+]

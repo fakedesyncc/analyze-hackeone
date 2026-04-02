@@ -1,0 +1,80 @@
+{
+  "reference_date": "2026-04-02",
+  "leaderboard_year": 2026,
+  "sample_size": 20,
+  "usernames": [
+    "m0chan",
+    "d0xing",
+    "godiego",
+    "jayesh25",
+    "holybugx",
+    "badcracker",
+    "arielrachamim",
+    "zseano",
+    "arthuraires",
+    "green-jam",
+    "yash_005",
+    "n0xi0us",
+    "teslatheg0d",
+    "supermancyber",
+    "todayisnew",
+    "mister_mime",
+    "fransrosen",
+    "nishant57",
+    "nagli",
+    "try_to_hack"
+  ],
+  "segment_counts": {
+    "elite_active": 4,
+    "active_riser": 6,
+    "established_veteran": 5,
+    "watchlist": 5
+  },
+  "recent_public_signal_count": 20,
+  "medians": {
+    "priority_score": 82.43,
+    "current_year_reputation": 2960,
+    "all_time_reputation": 40585.5,
+    "past_year_reputation": 9638.0,
+    "resolved_report_count": 1116.0,
+    "thanks_items_total_count": 212.5,
+    "streak_length": 38.0
+  },
+  "top_priority": [
+    {
+      "username": "m0chan",
+      "segment": "elite_active",
+      "priority_score": 99.6,
+      "current_year_rank": 1,
+      "all_time_rank": 3
+    },
+    {
+      "username": "d0xing",
+      "segment": "elite_active",
+      "priority_score": 99.2,
+      "current_year_rank": 3,
+      "all_time_rank": 2
+    },
+    {
+      "username": "godiego",
+      "segment": "elite_active",
+      "priority_score": 98.9,
+      "current_year_rank": 2,
+      "all_time_rank": 5
+    },
+    {
+      "username": "jayesh25",
+      "segment": "elite_active",
+      "priority_score": 96.6,
+      "current_year_rank": 9,
+      "all_time_rank": 6
+    },
+    {
+      "username": "holybugx",
+      "segment": "active_riser",
+      "priority_score": 96.5,
+      "current_year_rank": 4,
+      "all_time_rank": 14
+    }
+  ]
+}

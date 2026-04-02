@@ -1,0 +1,802 @@
+[
+  {
+    "username": "todayisnew",
+    "rank": 1,
+    "reputation": 218072,
+    "signal": 5.925112511251125,
+    "impact": 16.502826814353295,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTg0MjY="
+  },
+  {
+    "username": "d0xing",
+    "rank": 2,
+    "reputation": 163747,
+    "signal": 6.916443323348573,
+    "impact": 18.18174448767834,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTY1NTA="
+  },
+  {
+    "username": "m0chan",
+    "rank": 3,
+    "reputation": 123910,
+    "signal": 6.734910671173346,
+    "impact": 16.015290519877677,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjQ3OTI3"
+  },
+  {
+    "username": "try_to_hack",
+    "rank": 4,
+    "reputation": 109224,
+    "signal": 6.0011487650775415,
+    "impact": 16.046730930427493,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4MDk="
+  },
+  {
+    "username": "godiego",
+    "rank": 5,
+    "reputation": 85383,
+    "signal": 6.861386138613861,
+    "impact": 19.500332005312085,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMwMTIy"
+  },
+  {
+    "username": "jayesh25",
+    "rank": 6,
+    "reputation": 48463,
+    "signal": 6.8925848925848925,
+    "impact": 22.65848670756646,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODk4ODYw"
+  },
+  {
+    "username": "nagli",
+    "rank": 7,
+    "reputation": 47684,
+    "signal": 6.800801373783629,
+    "impact": 19.462835727670207,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODU2OTc1"
+  },
+  {
+    "username": "fransrosen",
+    "rank": 8,
+    "reputation": 42698,
+    "signal": 6.709345794392523,
+    "impact": 25.585585585585587,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTYzNA=="
+  },
+  {
+    "username": "zseano",
+    "rank": 9,
+    "reputation": 41900,
+    "signal": 6.673444976076555,
+    "impact": 20.381882770870337,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzczODE="
+  },
+  {
+    "username": "0xd0m7",
+    "rank": 10,
+    "reputation": 41250,
+    "signal": 6.0941558441558445,
+    "impact": 22.053712480252763,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTc5NjE="
+  },
+  {
+    "username": "sergeym",
+    "rank": 11,
+    "reputation": 41137,
+    "signal": 5.3487773487773485,
+    "impact": 15.512249443207127,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU1OA=="
+  },
+  {
+    "username": "inhibitor181",
+    "rank": 12,
+    "reputation": 41014,
+    "signal": 6.5859441151566465,
+    "impact": 27.21039182282794,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODgyNzY="
+  },
+  {
+    "username": "ali",
+    "rank": 13,
+    "reputation": 40230,
+    "signal": 6.426666666666667,
+    "impact": 19.74143955276031,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI1OTM3"
+  },
+  {
+    "username": "holybugx",
+    "rank": 14,
+    "reputation": 39271,
+    "signal": 6.924485125858124,
+    "impact": 16.77728142948309,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMzMTUzNQ=="
+  },
+  {
+    "username": "youstin",
+    "rank": 15,
+    "reputation": 36590,
+    "signal": 6.823529411764706,
+    "impact": 19.135899450117833,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTA1OTk2Mw=="
+  },
+  {
+    "username": "xploiterr",
+    "rank": 16,
+    "reputation": 35802,
+    "signal": 6.876129032258064,
+    "impact": 20.532994923857867,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTIzOTY2OA=="
+  },
+  {
+    "username": "proabiral",
+    "rank": 17,
+    "reputation": 35106,
+    "signal": 6.655103402268179,
+    "impact": 18.055764883195177,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTAxMzE0"
+  },
+  {
+    "username": "rz01",
+    "rank": 18,
+    "reputation": 34655,
+    "signal": 6.262023217247098,
+    "impact": 23.045212765957448,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzE4MDI="
+  },
+  {
+    "username": "badcracker",
+    "rank": 19,
+    "reputation": 34025,
+    "signal": 6.73962860529435,
+    "impact": 15.347222222222221,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzE0MDE1"
+  },
+  {
+    "username": "thaivu",
+    "rank": 20,
+    "reputation": 33914,
+    "signal": 6.7748798901853124,
+    "impact": 19.20899854862119,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzk1MzQ4"
+  },
+  {
+    "username": "freesec",
+    "rank": 21,
+    "reputation": 33573,
+    "signal": 6.180936995153473,
+    "impact": 20.070539419087137,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjM3Njcx"
+  },
+  {
+    "username": "arielrachamim",
+    "rank": 22,
+    "reputation": 33353,
+    "signal": 6.778047301394785,
+    "impact": 6.308210784313726,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQyMTg2MA=="
+  },
+  {
+    "username": "amsda",
+    "rank": 23,
+    "reputation": 33072,
+    "signal": 6.221960784313725,
+    "impact": 19.91103202846975,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQ0Njc="
+  },
+  {
+    "username": "ashish_r_padelkar",
+    "rank": 24,
+    "reputation": 32750,
+    "signal": 5.906976744186046,
+    "impact": 17.627314814814813,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE5ODg="
+  },
+  {
+    "username": "arneswinnen",
+    "rank": 25,
+    "reputation": 32565,
+    "signal": 6.944318181818182,
+    "impact": 26.574556830031284,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjEwODY="
+  },
+  {
+    "username": "jensec",
+    "rank": 26,
+    "reputation": 32239,
+    "signal": 6.910731244064578,
+    "impact": 21.418795620437955,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTk0OTUw"
+  },
+  {
+    "username": "sameerphad72",
+    "rank": 27,
+    "reputation": 32208,
+    "signal": 6.367336152219873,
+    "impact": 17.168727915194346,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg5MDgz"
+  },
+  {
+    "username": "meals",
+    "rank": 28,
+    "reputation": 32117,
+    "signal": 5.952283571915474,
+    "impact": 19.278717720391807,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI0MTE="
+  },
+  {
+    "username": "jackds",
+    "rank": 29,
+    "reputation": 32013,
+    "signal": 6.060297572435395,
+    "impact": 21.802884615384617,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjk3NQ=="
+  },
+  {
+    "username": "p4fg",
+    "rank": 30,
+    "reputation": 30745,
+    "signal": 6.744652406417113,
+    "impact": 16.583403895004235,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzc5Mjk1"
+  },
+  {
+    "username": "yumi",
+    "rank": 31,
+    "reputation": 30712,
+    "signal": 6.456050955414013,
+    "impact": 17.70079435127979,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM5NDA4"
+  },
+  {
+    "username": "jonathanbouman",
+    "rank": 32,
+    "reputation": 30642,
+    "signal": 6.960334029227558,
+    "impact": 22.344961240310077,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg5OTAw"
+  },
+  {
+    "username": "shailesh4594",
+    "rank": 33,
+    "reputation": 30504,
+    "signal": 6.533438237608182,
+    "impact": 18.612068965517242,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTk0MDI="
+  },
+  {
+    "username": "f6x",
+    "rank": 34,
+    "reputation": 30398,
+    "signal": 6.9033391915641475,
+    "impact": 22.279489904357067,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjk5Njkx"
+  },
+  {
+    "username": "archangel",
+    "rank": 35,
+    "reputation": 29835,
+    "signal": 6.7289029535864975,
+    "impact": 18.87589013224822,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzg4MjMz"
+  },
+  {
+    "username": "mayonaise",
+    "rank": 36,
+    "reputation": 29705,
+    "signal": 6.692146596858639,
+    "impact": 23.449691991786448,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzM4NTI0"
+  },
+  {
+    "username": "sheikhrishad0",
+    "rank": 37,
+    "reputation": 29388,
+    "signal": 6.61358574610245,
+    "impact": 16.33591481122943,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTM3NTg4"
+  },
+  {
+    "username": "green-jam",
+    "rank": 38,
+    "reputation": 28957,
+    "signal": 7.0,
+    "impact": 16.106048053024026,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE3ODkzOA=="
+  },
+  {
+    "username": "shubs",
+    "rank": 39,
+    "reputation": 28881,
+    "signal": 6.56989247311828,
+    "impact": 21.328125,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTIyNjM="
+  },
+  {
+    "username": "arthuraires",
+    "rank": 40,
+    "reputation": 28842,
+    "signal": 6.844466600199402,
+    "impact": 21.809360730593607,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM3OTc3OQ=="
+  },
+  {
+    "username": "yassineaboukir",
+    "rank": 41,
+    "reputation": 28777,
+    "signal": 5.631444939528962,
+    "impact": 19.38398357289528,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDUx"
+  },
+  {
+    "username": "nahamsec",
+    "rank": 42,
+    "reputation": 28400,
+    "signal": 6.080550098231827,
+    "impact": 21.483833718244803,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjQxMw=="
+  },
+  {
+    "username": "mlitchfield",
+    "rank": 43,
+    "reputation": 28232,
+    "signal": 5.0812693498452015,
+    "impact": 21.10223642172524,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjc0OA=="
+  },
+  {
+    "username": "djurado",
+    "rank": 44,
+    "reputation": 28195,
+    "signal": 6.879277566539924,
+    "impact": 18.121085594989562,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTY0MzQ4"
+  },
+  {
+    "username": "malcolmx",
+    "rank": 45,
+    "reputation": 28103,
+    "signal": 4.760647870425915,
+    "impact": 20.641304347826086,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM5NjI="
+  },
+  {
+    "username": "lamscun",
+    "rank": 46,
+    "reputation": 27832,
+    "signal": 5.520223152022315,
+    "impact": 18.13186813186813,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTUzNDc0"
+  },
+  {
+    "username": "none_of_the_above",
+    "rank": 47,
+    "reputation": 26884,
+    "signal": 6.975945017182131,
+    "impact": 21.153846153846153,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTgx"
+  },
+  {
+    "username": "yash_005",
+    "rank": 48,
+    "reputation": 26628,
+    "signal": 6.608222490931076,
+    "impact": 20.049180327868854,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTI4MDIwMA=="
+  },
+  {
+    "username": "nullelite",
+    "rank": 49,
+    "reputation": 26577,
+    "signal": 3.794642857142857,
+    "impact": 16.14027149321267,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzM3MDM="
+  },
+  {
+    "username": "r3aper__",
+    "rank": 50,
+    "reputation": 26513,
+    "signal": 6.771428571428571,
+    "impact": 24.326113116726834,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjc4NTg5OA=="
+  },
+  {
+    "username": "hogarth45",
+    "rank": 51,
+    "reputation": 26044,
+    "signal": 6.580495356037152,
+    "impact": 18.451957295373667,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU1Nzc="
+  },
+  {
+    "username": "zere",
+    "rank": 52,
+    "reputation": 25215,
+    "signal": 6.92814371257485,
+    "impact": 20.674698795180724,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTkwODk2OA=="
+  },
+  {
+    "username": "nnwakelam",
+    "rank": 52,
+    "reputation": 25215,
+    "signal": 5.133272892112421,
+    "impact": 23.040621266427717,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTY0Mw=="
+  },
+  {
+    "username": "tolo7010",
+    "rank": 54,
+    "reputation": 25146,
+    "signal": 5.9549867608120035,
+    "impact": 17.94176706827309,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM3NTMz"
+  },
+  {
+    "username": "rhynorater",
+    "rank": 55,
+    "reputation": 25067,
+    "signal": 6.854901960784313,
+    "impact": 19.516129032258064,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzMyNTY="
+  },
+  {
+    "username": "harris0ft",
+    "rank": 56,
+    "reputation": 24651,
+    "signal": 6.525798525798526,
+    "impact": 14.098798397863819,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzI5Mjc0"
+  },
+  {
+    "username": "geekboy",
+    "rank": 57,
+    "reputation": 24519,
+    "signal": 5.203101920236337,
+    "impact": 16.91919191919192,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzU0Nw=="
+  },
+  {
+    "username": "zonduu",
+    "rank": 58,
+    "reputation": 24266,
+    "signal": 6.640237859266601,
+    "impact": 18.338945005611674,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTk1MDg3"
+  },
+  {
+    "username": "diogourupes",
+    "rank": 59,
+    "reputation": 24055,
+    "signal": 6.349290780141844,
+    "impact": 15.710172744721689,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDA4MTU4"
+  },
+  {
+    "username": "smsecurity",
+    "rank": 60,
+    "reputation": 23857,
+    "signal": 6.89245810055866,
+    "impact": 22.68451519536903,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTkwNTk="
+  },
+  {
+    "username": "teslatheg0d",
+    "rank": 61,
+    "reputation": 23774,
+    "signal": 6.894988066825776,
+    "impact": 21.270983213429258,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODQ4OTY3"
+  },
+  {
+    "username": "supermancyber",
+    "rank": 62,
+    "reputation": 23772,
+    "signal": 6.987193169690501,
+    "impact": 16.888528138528137,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg0NTYzOA=="
+  },
+  {
+    "username": "bombon",
+    "rank": 63,
+    "reputation": 23575,
+    "signal": 6.844994617868676,
+    "impact": 20.337078651685392,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTMyMDM2Nw=="
+  },
+  {
+    "username": "samux",
+    "rank": 64,
+    "reputation": 23552,
+    "signal": 6.414259927797834,
+    "impact": 18.22954822954823,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTM3NDU="
+  },
+  {
+    "username": "irwanjugabro",
+    "rank": 65,
+    "reputation": 22957,
+    "signal": 6.151939655172414,
+    "impact": 18.605714285714285,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTgzNjU3"
+  },
+  {
+    "username": "ltidi",
+    "rank": 66,
+    "reputation": 22651,
+    "signal": 6.588571428571429,
+    "impact": 18.9010989010989,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTM0NjEy"
+  },
+  {
+    "username": "gujjuboy10x00",
+    "rank": 67,
+    "reputation": 22164,
+    "signal": 4.117361111111111,
+    "impact": 17.09100758396533,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQ3NTEy"
+  },
+  {
+    "username": "v1ser",
+    "rank": 68,
+    "reputation": 21988,
+    "signal": 7.0,
+    "impact": 24.139402560455192,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDcwNzY3"
+  },
+  {
+    "username": "chernobyl",
+    "rank": 69,
+    "reputation": 21797,
+    "signal": 3.25032175032175,
+    "impact": 18.761627906976745,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzkxOQ=="
+  },
+  {
+    "username": "bogdantc",
+    "rank": 70,
+    "reputation": 21720,
+    "signal": 6.571779141104295,
+    "impact": 20.12210796915167,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzkyMDk="
+  },
+  {
+    "username": "hipotermia",
+    "rank": 71,
+    "reputation": 20742,
+    "signal": 6.902759526938239,
+    "impact": 20.622119815668203,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzMwNTA0"
+  },
+  {
+    "username": "sowhatsec",
+    "rank": 72,
+    "reputation": 20681,
+    "signal": 6.945205479452055,
+    "impact": 23.566176470588236,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTQ1NTMz"
+  },
+  {
+    "username": "n0xi0us",
+    "rank": 73,
+    "reputation": 20624,
+    "signal": 6.930535455861071,
+    "impact": 18.151515151515152,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTY5MzIyNQ=="
+  },
+  {
+    "username": "w2w",
+    "rank": 74,
+    "reputation": 20052,
+    "signal": 5.961325966850828,
+    "impact": 19.26027397260274,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTM0OTQy"
+  },
+  {
+    "username": "ngalog",
+    "rank": 75,
+    "reputation": 19974,
+    "signal": 5.624664879356568,
+    "impact": 23.738095238095237,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzQ2MDc="
+  },
+  {
+    "username": "sachin_kr",
+    "rank": 76,
+    "reputation": 19867,
+    "signal": 5.902985074626866,
+    "impact": 19.653061224489797,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTA3NjUx"
+  },
+  {
+    "username": "hx01",
+    "rank": 77,
+    "reputation": 19487,
+    "signal": 6.830188679245283,
+    "impact": 23.11175337186898,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjY0MDE4"
+  },
+  {
+    "username": "hrithikbot",
+    "rank": 78,
+    "reputation": 19377,
+    "signal": 6.540952380952381,
+    "impact": 15.090556274256144,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjgzODI0"
+  },
+  {
+    "username": "abze",
+    "rank": 79,
+    "reputation": 18941,
+    "signal": 6.31918008784773,
+    "impact": 21.9811320754717,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkwMg=="
+  },
+  {
+    "username": "testingforbugs",
+    "rank": 80,
+    "reputation": 18865,
+    "signal": 5.686847599164927,
+    "impact": 16.982288828337875,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTY1NTY0"
+  },
+  {
+    "username": "ziot",
+    "rank": 81,
+    "reputation": 18840,
+    "signal": 6.727144866385372,
+    "impact": 20.164233576642335,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzI2Mg=="
+  },
+  {
+    "username": "stealthy",
+    "rank": 82,
+    "reputation": 18818,
+    "signal": 6.391304347826087,
+    "impact": 21.736474694589877,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzg5MTYx"
+  },
+  {
+    "username": "lu3ky-13",
+    "rank": 83,
+    "reputation": 18599,
+    "signal": 5.936507936507937,
+    "impact": 18.475975975975977,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvOTIwNDc2"
+  },
+  {
+    "username": "ralamosm",
+    "rank": 84,
+    "reputation": 18483,
+    "signal": 6.910776361529548,
+    "impact": 18.09384164222874,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE1MjU="
+  },
+  {
+    "username": "niemand_sec",
+    "rank": 85,
+    "reputation": 18463,
+    "signal": 6.5053929121725735,
+    "impact": 21.963963963963963,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTI3MjU="
+  },
+  {
+    "username": "psaux",
+    "rank": 86,
+    "reputation": 18230,
+    "signal": 6.018927444794953,
+    "impact": 25.296762589928058,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODEzNQ=="
+  },
+  {
+    "username": "dawgyg",
+    "rank": 87,
+    "reputation": 18058,
+    "signal": 6.2504258943781945,
+    "impact": 25.282485875706215,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzE0Mg=="
+  },
+  {
+    "username": "foobar7",
+    "rank": 88,
+    "reputation": 18042,
+    "signal": 6.677519379844961,
+    "impact": 20.794912559618442,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTk3ODE3"
+  },
+  {
+    "username": "bagipro",
+    "rank": 89,
+    "reputation": 17953,
+    "signal": 6.351875808538163,
+    "impact": 19.0117994100295,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTIyMzk="
+  },
+  {
+    "username": "yxw21",
+    "rank": 90,
+    "reputation": 17846,
+    "signal": 6.8121546961325965,
+    "impact": 25.47222222222222,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTUxMzY0"
+  },
+  {
+    "username": "spaceraccoon",
+    "rank": 91,
+    "reputation": 17755,
+    "signal": 6.9886178861788615,
+    "impact": 20.252525252525253,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNzU3"
+  },
+  {
+    "username": "cdl",
+    "rank": 92,
+    "reputation": 17717,
+    "signal": 6.715670436187399,
+    "impact": 23.989583333333332,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE0NTI0"
+  },
+  {
+    "username": "derision",
+    "rank": 93,
+    "reputation": 17453,
+    "signal": 6.808,
+    "impact": 21.470099667774086,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTYxMzA="
+  },
+  {
+    "username": "nismo",
+    "rank": 94,
+    "reputation": 17437,
+    "signal": 4.7942794279427945,
+    "impact": 19.032496307237814,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTUxMDg="
+  },
+  {
+    "username": "jin0ne",
+    "rank": 95,
+    "reputation": 17344,
+    "signal": 6.587326120556415,
+    "impact": 20.08957654723127,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTY4MDcz"
+  },
+  {
+    "username": "dkd",
+    "rank": 96,
+    "reputation": 17104,
+    "signal": 5.092396535129932,
+    "impact": 19.763572679509632,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzE5NjQ="
+  },
+  {
+    "username": "w--",
+    "rank": 97,
+    "reputation": 16990,
+    "signal": 6.642424242424243,
+    "impact": 24.360902255639097,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvODU4MTE="
+  },
+  {
+    "username": "harrymg",
+    "rank": 98,
+    "reputation": 16810,
+    "signal": 5.639563106796117,
+    "impact": 18.7797147385103,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNzgzOQ=="
+  },
+  {
+    "username": "hacktus",
+    "rank": 99,
+    "reputation": 16694,
+    "signal": 6.976653696498055,
+    "impact": 21.7966573816156,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM1OTg2"
+  },
+  {
+    "username": "gerben_javado",
+    "rank": 100,
+    "reputation": 16575,
+    "signal": 6.0718849840255595,
+    "impact": 22.5,
+    "user_id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzIzNw=="
+  }
+]
